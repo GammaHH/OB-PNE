@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "1ea304383b9fc778",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac66dc39f8484981",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d7cef371cfdc815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日誌/2024-03-19.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "df750327b834d962"
+          }
+        ]
+      },
+      {
+        "id": "4054c3f7545c7be5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7056dd107b8c6058",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日誌/2024-03-19.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "df750327b834d962"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20e4270cfa88a658",
+    "type": "split",
+    "children": [
+      {
+        "id": "784b307f566a31bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7971be5ef084c13c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a55d68de9ab86a14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6af3057b35fa0d9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2a6a3140197d0a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee294105780128c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a027386b096ef23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日誌/2024-03-19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df721b44b6d0ee78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日誌/2024-03-19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16399921b219a983",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b35fadf776f467e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日誌/2024-03-19.md"
+              }
+            }
+          },
+          {
+            "id": "6886b4b9e61ac2de",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "audio-recorder:開始/停止錄音": false
+    }
+  },
+  "active": "7056dd107b8c6058",
+  "lastOpenFiles": [
+    "日誌/2024-03-19.md",
+    "日誌/2024-02-01.md",
+    "日誌/2024-01-31.md",
+    "create a link.md",
+    "Welcome.md",
+    "plugins/obsidian-style-settings/styles.css",
+    "plugins/obsidian-style-settings/manifest.json",
+    "plugins/obsidian-style-settings/main.js",
+    "plugins/obsidian-style-settings/data.json",
+    "plugins/obsidian-style-settings",
+    "plugins/obsidian-git/styles.css",
+    "plugins/obsidian-git/manifest.json",
+    "plugins/obsidian-git/main.js",
+    "plugins/obsidian-git",
+    "plugins/obsidian-excalidraw-plugin/styles.css",
+    "日誌/2024-01-24.md",
+    "日誌/2024-01-22.md",
+    "日誌/2024-01-23.md"
+  ]
+}
