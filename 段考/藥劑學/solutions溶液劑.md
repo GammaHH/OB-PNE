@@ -13,22 +13,22 @@ Solutions can involve combinations of solids, liquids, and gases. In pharmaceuti
 
 **溶解度表示法**
 
-| ==25'C==以下溶解度            | 溶解1g物質所需溶媒數      |
-| ------------------------ | ---------------- |
-| ==極易溶解(very solutable)== | ==<1mL==         |
-| ==易溶(Freely sol.)==          | ==1-10mL==       |
-| ==可溶(Sol.)==                 | ==10-30mL==      |
-| ==略溶(Sparingly sol.)==       | ==30-100mL==     |
-| ==微溶(Slight sol.)==          | ==100-1000mL==   |
-| ==極微溶(Very slightly sol.)==  | ==1000-10000mL== |
-| ==不溶(Insolluble)==           | ==10000mL==      |
+| ==25'C==以下溶解度               | 溶解1g物質所需溶媒數      |
+| --------------------------- | ---------------- |
+| ==極易溶解(very solutable)==    | ==<1mL==         |
+| ==易溶(Freely sol.)==         | ==1-10mL==       |
+| ==可溶(Sol.)==                | ==10-30mL==      |
+| ==略溶(Sparingly sol.)==      | ==30-100mL==     |
+| ==微溶(Slight sol.)==         | ==100-1000mL==   |
+| ==極微溶(Very slightly sol.)== | ==1000-10000mL== |
+| ==不溶(Insolluble)==          | ==10000mL==      |
 #review
-<!--SR:!2024-10-15,1,216!2024-10-15,1,220!2024-10-15,1,216!2024-10-15,1,226!2024-10-15,1,219!2024-10-15,1,230!2024-10-17,3,260!2024-10-15,1,226!2024-10-15,1,220!2024-10-15,1,230!2024-10-15,1,219!2024-10-15,1,216!2024-10-15,1,216!2024-10-17,3,260!2024-10-17,3,260-->
+<!--SR:!2024-10-19,3,236!2024-10-17,1,200!2024-10-17,1,196!2024-10-15,1,226!2024-10-15,1,219!2024-10-17,1,210!2024-10-17,3,260!2024-10-17,1,206!2024-10-15,1,220!2024-10-17,1,210!2024-10-17,1,199!2024-10-17,1,196!2024-10-15,1,216!2024-10-17,3,260!2024-10-17,3,260-->
 
 ## 影響溶解度的因素
 ### pH值
 **大多數藥品都是弱鹼或是弱酸**，基本上很容易受到溶液的pH值影響，但也可以透過此特性來改變==藥品的口感==
-<!--SR:!2024-10-15,1,220-->
+<!--SR:!2024-10-19,3,240-->
 
 ## 相關注意事項
 ### 溶劑
@@ -64,21 +64,22 @@ Solutions can involve combinations of solids, liquids, and gases. In pharmaceuti
 - **根據液體特性選擇設備**：
     - **單相液體**：使用==<mark style="background: #EED841C2;">低剪切、高流量</mark>==的混合器。
     - **多相液體**：需要==<mark style="background: #EED841C2;">高剪切、低流量</mark>==的混合器，以形成均勻的液滴。
-<!--SR:!2024-10-15,1,216!2024-10-15,1,216-->
+<!--SR:!2024-10-17,1,196!2024-10-15,1,216-->
 
 ##### 混合機制 <!--SR:!2000-01-01,1,250!2024-10-15,1,219-->
 
 1. **大塊移動 (Bulk Transport)**：==<mark style="background: #EED841C2;">使用槳葉或葉片移動大量材料</mark>==。
-?
+<!--SR:!2024-10-17,1,207-->
+
 2. **湍流 (Turbulent Flow)**：==<mark style="background: #EED841C2;">利用流體動力學中的隨機速度波動進行混合</mark>。==
-?
+
 3. **層流 (Laminar Flow)**：==<mark style="background: #EED841C2;">適合黏稠液體或在固定表面旁邊進行溫和混合</mark>。==
-?
+
 4. **分子擴散 (Molecular Diffusion)**：==<mark style="background: #EED841C2;">分子間緩慢的、受溫度驅動的混合過程</mark>。==
 ## 個論-口服溶液
 ### 口服溶液
 **化學相互作用**
-<!--SR:!2024-10-15,1,220-->
+<!--SR:!2024-10-17,1,200-->
 
 - **配方設計需謹慎**，避免影響穩定性和效力的相互作用。
     - 例如：==<mark style="background: #EED841C2;">防腐劑可能進入香料油中，降低其效能</mark>==。
@@ -86,7 +87,7 @@ Solutions can involve combinations of solids, liquids, and gases. In pharmaceuti
 ### 乾粉混合物
 - 多為==<mark style="background: #EED841C2;">抗生素</mark>==，製成乾粉可以長時間穩定保存
 #### 製備流程
-<!--SR:!2024-10-15,1,216!2024-10-15,1,219!2024-10-16,2,240-->
+<!--SR:!2024-10-15,1,216!2024-10-17,1,199!2024-10-17,1,220-->
 
 - **乾粉包含所有配方成分**，僅缺溶劑。
 - **配藥時再加水**：藥師在分發前，會依規定量加入純化水進行重建。
@@ -100,7 +101,7 @@ Solutions can involve combinations of solids, liquids, and gases. In pharmaceuti
 
 - **告知患者**：完成療程後，應丟棄任何未使用完的藥物。
 ### 口服補液溶液（Oral Rehydration Solutions, ==ORS==）
-<!--SR:!2024-10-15,1,216-->
+<!--SR:!2024-10-17,1,196-->
 
 #### 意義與影響
 
@@ -159,7 +160,7 @@ Solutions can involve combinations of solids, liquids, and gases. In pharmaceuti
     
 2. **==<mark style="background: #EED841C2;">痛風治療的輔助劑</mark>==**：
     - 與尿酸排泄促進劑合用，防止尿酸鹽在酸性尿液中結晶。
-<!--SR:!2024-10-15,1,216-->
+<!--SR:!2024-10-17,1,196-->
 
 ---
 # 糖漿（Syrups）
@@ -185,6 +186,7 @@ Solutions can involve combinations of solids, liquids, and gases. In pharmaceuti
 - 必須評估藥物的**溶解度、穩定性及生物利用度**。
 - 劑型可為==<mark style="background: #EED841C2;">溶液或懸液</mark>==，取決於藥物特性。
 - 可使用市售的調配載體。
+<!--SR:!2024-10-17,1,207-->
 
 #### 常見應用
 
@@ -200,6 +202,7 @@ Solutions can involve combinations of solids, liquids, and gases. In pharmaceuti
     - (c) 香料：增強口感。
     - (d) 色素：改善外觀。
 - **輔助成分**：市售糖漿可能還包含溶劑（如酒精）、增溶劑、增稠劑或穩定劑。
+<!--SR:!2024-10-17,1,207-->
 
 #### 蔗糖和非蔗糖基糖漿的特性
 
@@ -213,6 +216,7 @@ Solutions can involve combinations of solids, liquids, and gases. In pharmaceuti
     - **替代甜味劑**：多元醇如山梨醇或甘油，適用於糖尿病患者。
     -  例如:==<mark style="background: #EED841C2;">Sorbitol and Glycerin</mark>==
     - **非糖原性物質**：(兩種)==<mark style="background: #EED841C2;">甲基纖維素或羥乙基纖維素Methylcellulose or hydroxyethylcellulose</mark>== ，通常做為該劑型的載體，用於避免升高血糖。
+<!--SR:!2000-01-01,1,250!2024-10-17,1,208-->
 
 ### 配製與保存
 
