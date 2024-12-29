@@ -5,7 +5,7 @@
 - 每個知識點請附上頁數編號(講義內右下角均有頁碼標示)
 2.另提取出講義內所有有關國考的選擇題，內容格式請符合以下範例: 
 > 101-2
-	(換行加tab)下列何者antibody-drug conjugate (ADC)，使用不可切斷 性 (non-cleavable) 之linker？ 
+	(換行加tab)下列何者antibody-drug conjugate (ADC)，使用不可切斷性 (non-cleavable) 之linker？ 
 A. brentuximab vedotin 
 B. gemtuzumab ozogamicin 
 C. inotuzumab ozogamicin 
