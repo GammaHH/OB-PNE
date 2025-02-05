@@ -363,7 +363,7 @@ $$R_e​=\frac{ΔU}{Δt}​$$
 >  - BE = 兩者在吸收速率和程度上無差異(具相似之體內~~暴露~~行為)
 >  - BAB = BA + BE
 - **實驗設計**
-1. 交叉設計（Crossover Design）最常使用
+1. 交叉設計（Crossover Design）*最常使用*
 2. 單次劑量研究（Single-Dose Study）
 3. 穩態研究（Steady-State Study）
 >受試者必須為健康志願者
