@@ -1,3 +1,6 @@
+---
+updated: 2024-06-06 09:13
+---
 **簡介**
 `膠囊 Capsule，簡稱Cap`
 `錠片 Tablet，簡稱Tab`

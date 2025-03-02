@@ -1,3 +1,6 @@
+---
+updated: 2024-10-16 15:39
+---
 ### 成分組成
 
 - **主要成分**：大約 ==<mark style="background: #EED841C2;">70%</mark>== 體積的異丙醇 (isopropyl alcohol)。

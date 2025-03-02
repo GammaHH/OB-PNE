@@ -1,3 +1,6 @@
+---
+updated: 2024-12-24 23:09
+---
 > **112-2 藥師**  
 > 下列penicillin抗生素中，何者用於治療產生beta-lactamases之葡萄球菌感染（staphylococcal infection）時，不須併用beta-lactamase inhibitor？  
 > A. Amoxicillin  

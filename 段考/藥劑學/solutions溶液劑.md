@@ -1,3 +1,6 @@
+---
+updated: 2024-10-16 19:31
+---
 # 定義
 Solutions can involve combinations of solids, liquids, and gases. In pharmaceuticals, this typically involves dissolving a solute (solid, liquid, or gas) in a liquid solvent.
 溶液劑屬於==<mark class="hltr-yellow">真溶液</mark>==，也就是均勻混合不沉澱的溶液

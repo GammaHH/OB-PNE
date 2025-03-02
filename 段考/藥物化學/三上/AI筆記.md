@@ -1,3 +1,6 @@
+---
+updated: 2024-10-16 17:07
+---
 ## ChP 2 Foundational Principles II
 ### **藥物吸收 (Drug Absorption)**
 

@@ -1,3 +1,6 @@
+---
+updated: 2024-06-06 08:49
+---
 根據提供的講義《Tablets.pdf》，以下是每一頁的重點內容，整理成適合卡片盒式筆記法（Zettelkasten）的資料：
 
 ### Page 1: 簡介(Introduction)

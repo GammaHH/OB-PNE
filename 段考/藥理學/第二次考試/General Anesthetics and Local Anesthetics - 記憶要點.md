@@ -1,3 +1,6 @@
+---
+updated: 2024-11-08 00:40
+---
 # 藥物大表
 - **所有吸入型麻醉劑**均具有一定的支氣管擴張效果。isoflurane and desflurane具刺激
 - **所有麻醉氣體**都會降低心肌收縮力，尤其是 halothane 和 enflurane

@@ -1,5 +1,56 @@
+---
+updated: 2025-02-05 22:10
+---
 # 題目綜整
 
+> ###### 91 醫學（二） (67)
+	  嚴重肝臟衰竭病人使用下列何種 glucocorticoid 藥物會無效？
+(A) cortisol  
+(B) dexamethasone  
+(C) prednisone  
+(D) triamcinolone
+
+答案：C (prednisone)
+
+---
+
+#### **解析：**
+
+- **Prednisone 是一種前驅藥 (prodrug)**，需要經由 **肝臟代謝** 轉化為其活性形式 **prednisolone**，才能發揮藥效。
+- **在肝功能嚴重受損的病人中**，由於肝臟無法有效代謝 prednisone，因此該藥無法被活化，導致其療效受到影響。
+- 其他選項中：
+    - **Cortisol (A)** 和 **Triamcinolone (D)** 是直接活性形式，無需肝臟代謝。
+    - **Dexamethasone (B)** 同樣為直接活性形式，不依賴肝臟代謝。
+
+> **結論：** 在嚴重肝臟衰竭的病人中，應避免使用 prednisone，選擇其他不需經肝臟代謝的 glucocorticoid，例如 dexamethasone 或 cortisol。
+
+> 112-1  
+	下列corticosteroids製劑中何者最容易發生明顯的生長抑制作用，所以不建議給兒童使用？  
+A. cortisol  
+B. dexamethasone  
+C. fludrocortisone  
+D. triamcinolone  
+?  
+B
+
+>112-2  
+	下列何者不是dexamethasone的藥理作用？  
+A. 抑制免疫反應（immunosuppression）  
+B. 增加糖質新生（gluconeogenesis）  
+C. 降低肝醣合成（glycogen synthesis）  
+D. 增加鈉離子再吸收（Na+ reabsorption）  
+?  
+C
+- 促進肝醣裂解
+
+>113-1  
+	下列類固醇衍生物中，何者具有最強效的抗發炎作用？  
+A. betamethasone  
+B. prednisolone  
+C. hydrocortisone  
+D. paramethasone  
+?  
+A
 
 > ###### 112-1
 	下列有關 glucagon 之敘述，何者正確？  
@@ -195,9 +246,8 @@ D
 
 #### 重要藥物與用途 - 很重要
 
-- **Fludrocortisone**
-    - **適應症：** Mineralocorticoid 分泌不足。
-    - **首選治療藥物。**
+- **Fludrocortisone** (認flu-水-鈉滯留)
+    - **適應症：** Mineralocorticoid 分泌不足。**首選治療藥物。**
 
 > [!note] **Dexamethasone 應用**
 > 
@@ -205,8 +255,7 @@ D
 > - **測試方式：** Dexamethasone 抑制測試。
 
 > [!info] **Betamethasone 的應用 - 促進胎兒肺部成熟**
-> 
-> - 每次注射 **12 mg**，間隔 18–24 小時追加第二劑。
+
 
 >跟平安符的表格差不多，但重點不太一樣
 
@@ -226,68 +275,34 @@ D
 
 #### **F. 製劑種類與用途**
 
-4. **Cortisol & Cortisone**
+1. **Cortisol & Cortisone**
     
-    - **用途：**
-        - 僅用於 腎上腺功能不足 的替代療法。
-    - **特性：**
-        - 高鹽皮質激素活性，適合作為**補充用藥**。
-5. **Prednisone, Prednisolone & Methylprednisolone**
+    僅用於 腎上腺功能不足 的替代療法，作為**補充用藥**
+      
     
-    - **用途：**
-        - **慢性抗發炎** 與免疫抑制劑（如器官移植）。
-    - **特性：**
-        - 具有抗發炎作用，中等血漿半衰期，低鹽皮質激素活性。
-6. **Dexamethasone & Betamethasone**
+2. **Prednisone, Prednisolone & Methylprednisolone**
+    
+    - 用途：因中等藥效而作為**慢性抗發炎 與免疫抑制劑（如器官移植）。**
+        Pred 代表有雙鍵，因此較基準增強4-5倍
+    - **特性：平安符的，參考就好**
+        Prednisone 不可外用(-isone 結尾的都不能外用，有C=O)
+3. **Dexamethasone & Betamethasone**
     
     - **用途：**
         - 用於需 ==立即抗發炎效果== 的情況，非慢性用藥首選。
     - **特性：**
         - ==最高抗發炎活性==，長血漿半衰期，最低鹽皮質激素活性。
         - **副作用：** 抑制生長、骨質流失。
-        - ==小朋友不建議使用==
-
+        - ==小朋友不建議使用==，因為藥效強
+> 抗發炎口訣： Betamethasone > Dexamethasone > Fludrocortisone > Prednisone > Cortisone
 ---
-
-
-**嚴重肝臟衰竭病人使用下列何種 glucocorticoid 藥物會無效？**
-
-(A) cortisol  
-(B) dexamethasone  
-(C) prednisone  
-(D) triamcinolone
-
-
-
-答案：C (prednisone)
-
----
-
-#### **解析：**
-
-- **Prednisone 是一種前驅藥 (prodrug)**，需要經由 **肝臟代謝** 轉化為其活性形式 **prednisolone**，才能發揮藥效。
-- **在肝功能嚴重受損的病人中**，由於肝臟無法有效代謝 prednisone，因此該藥無法被活化，導致其療效受到影響。
-- 其他選項中：
-    - **Cortisol (A)** 和 **Triamcinolone (D)** 是直接活性形式，無需肝臟代謝。
-    - **Dexamethasone (B)** 同樣為直接活性形式，不依賴肝臟代謝。
-
-> **結論：** 在嚴重肝臟衰竭的病人中，應避免使用 prednisone，選擇其他不需經肝臟代謝的 glucocorticoid，例如 dexamethasone 或 cortisol。
 
 
 #### **Cushing's Syndrome（庫欣氏症候群）**
 
-7. **原因：**
-    - **皮質醇過度暴露** 所導致的症候群。
-8. **特徵症狀：**
-    - 滿月臉 (Moon face)。
-    - 水牛肩 (Buffalo hump)。
-      > 脂肪重分布
-    
-    - 骨質疏鬆症。
-    - 瘀斑、瘀點。
-    - 男性女乳症。
-    - 月經異常停止。
-   
+原因：**腎上腺皮質過多**
+
+
 
 
 > [!note] 醫源性庫欣氏症候群（Iatrogenic Cushing Syndrome）
@@ -295,26 +310,25 @@ D
 > - 長期使用糖皮質激素治療可能導致。
 > - ==因為抑制了ACTH和皮質素==
 
+> 平安符的表格整理
+![[Pasted image 20250205203857.png]]
+
+
+
 ---
 
 #### **G. 副作用與臨床問題**
 
-9. **腎上腺抑制：**
+
+1. 抑制下視丘-腦垂體-腎上腺軸，影響內源性激素分泌。(==這是上游回饋抑制的結果==)
+
     
-    - 抑制下視丘-腦垂體-腎上腺軸，影響內源性激素分泌。
-10. **骨代謝影響：**
+2. 骨質疏鬆症。==OB活性減少；OC活性增加==
     
-    - **結果：** 骨質疏鬆症。==OB活性減少；OC活性增加==
-    - **機制：**
-        - 減少鈣吸收與腎小管再吸收。
-        - 抑制成骨細胞活性，增加破骨細胞數量。
-        - 抑制降鈣素的骨保護作用。
-11. **對血糖的影響：**
-    
-    - 提高血漿葡萄糖濃度。
-12. **其他副作用：**
+3. 提高血漿葡萄糖濃度。
+4. **其他副作用：**
     - **鹽分滯留與高血壓：** 導致低血鉀症。
-    - **脂肪代謝異常：** 躯幹肥胖、滿月臉。
+    - 脂肪代謝異常： 躯幹肥胖、滿月臉。
     - 骨骼肌病變 (Myopathy)。
     - 白內障發生率上升。
     - 隱藏性感染可能惡化。
@@ -323,159 +337,104 @@ D
 
 #### 常見的臨床應用（非腎上腺疾病）
 
-13. **過敏反應**
-14. **自體免疫疾病：** 紅斑性狼瘡 (SLE)、類風濕性關節炎 (RA)。
-15. **眼科疾病：** 葡萄膜炎、結膜炎、視神經炎。
-16. **器官移植：** 用於預防排斥反應。
-17. **皮膚病變：** 異位性皮膚炎。
-18. **腎病症候群**
+1. 過敏反應
+2. 自體免疫疾病： 紅斑性狼瘡 (SLE)、類風濕性關節炎 (RA)。
+3. 眼科疾病： 葡萄膜炎、結膜炎、視神經炎。
+4. 器官移植： 用於預防排斥反應。
+5. 皮膚病變： 異位性皮膚炎。
+6. 腎病症候群
 > 基本上都是自體免疫疾病類
 
 
 ---
 
-#### **Glucocorticoids in Asthma & Allergic Rhinitis ** 知道就好
+#### Glucocorticoids in Asthma & Allergic Rhinitis 知道就好
 > 呼吸道類固醇
 
 A. Asthma Treatment (氣霧劑)
 
-- 以下藥物以吸入氣霧劑形式治療哮喘，極具療效：
-    1. Beclomethasone dipropionate
-    2. Budesonide
-    3. Flunisolide
-    4. Mometasone furoate
+
+1. Beclomethasone dipropionate
+2. Budesonide
+3. Flunisolide
+4. Mometasone furoate
 
 
 
 B. Allergic Rhinitis Treatment (鼻炎噴劑)
 
-- 下列藥物以鼻噴劑形式局部治療過敏性鼻炎，且不會顯著影響腎上腺功能或導致全身性副作用：
-    1. Beclomethasone dipropionate
-    2. Triamcinolone acetonide
-    3. Budesonide
-    4. Flunisolide
-    5. Fluticasone
 
-> 劑量: 一至兩次噴霧，每天 1–3 次。
+1. Beclomethasone dipropionate
+2. Triamcinolone acetonide
+3. Budesonide
+4. Flunisolide
+5. Fluticasone
 
 ---
 
 #### **Inhibitors of Adrenocortical Steroids (腎上腺皮質類固醇的抑制劑)**
 
-19. ==Aminoglutethimide==
+1. ==Aminoglutethimide==
 
 - **作用機制：**
     - 阻斷 **Cholesterol → Pregnenolone** 的轉換。
     - 同時抑制 **cholesterol side-chain-cleaving enzyme** (CYP11A1) 和 **aromatase** > 可治乳癌。
-- **臨床用途：** 治療 **乳癌** 與 ==Cushing syndrome==。
+- **臨床用途：** ==治療 **乳癌** 與 Cushing syndrome==。
 
-**2. Ketoconazole**
-
-- **作用機制：** 抑制 **CYP17** 與其他酵素。並用增加半衰期
-- **臨床用途：** 用於 **Cushing syndrome**。
+2. Ketoconazole 用於 **Cushing syndrome**。
 
 
 
-**8. Mifepristone** RU486
+3. **Mifepristone** RU486
 
 - **作用機制：** **Glucocorticoid receptor antagonist**（糖皮質激素受體拮抗劑）。
 
----
 
-### **[重點總結]**
+> 其他的老師說知道就好
 
-20. **Glucocorticoids**
+
+1. Etomidate (平安符沒有)
+- **靜脈注射（IV）治療 Cushing's syndrome**，特別是急性控制皮質醇過量的情況。
+
+2. Metyrapone
+- 用於**腎上腺功能測試**（Metyrapone Test）
+- 也可用於 Cushing's syndrome 的治療。
+
+3. Trilostane
+
+- 主要用於獸醫領域，如治療狗的庫興氏症候群（Cushing’s disease）。
+4. Mitotane
+- 對腎上腺皮質有非選擇性細胞毒作用，用於治療**腎上腺皮質癌（Adrenocortical carcinoma）**。
+5. Abiraterone
+
+- 治療**去勢抗性前列腺癌（Castration-resistant prostate cancer, CRPC）**，因為可抑制睪固酮合成。
+
+
+### A. Estrogens, Progestins & Oral Contraceptives
+
+
+
+#### (A) Estrogens
+
+##### 1. 女性體內主要的三種 estrogens
     
-    - 使用於哮喘及過敏性鼻炎，以吸入或鼻噴方式給藥，減少全身性影響。
-21. **腎上腺皮質激素抑制劑**
-    
-    - **臨床用途：** 主治 **Cushing syndrome** 或相關腎上腺疾病。
-    - **重要藥物：**
-        - **Ketoconazole**、**Metyrapone**、**Aminoglutethimide**、**Mitotane** 等。
-22. **藥物應用差異**
-    
-    - 噴霧和局部治療減少全身性副作用。
-    - 靜脈給藥（如 Etomidate）主要用於急性病況。
-
-
-
-> 112-1  
-	下列corticosteroids製劑中何者最容易發生明顯的生長抑制作用，所以不建議給兒童使用？  
-A. cortisol  
-B. dexamethasone  
-C. fludrocortisone  
-D. triamcinolone  
-?  
-B
-
->112-2  
-	下列何者不是dexamethasone的藥理作用？  
-A. 抑制免疫反應（immunosuppression）  
-B. 增加糖質新生（gluconeogenesis）  
-C. 降低肝醣合成（glycogen synthesis）  
-D. 增加鈉離子再吸收（Na+ reabsorption）  
-?  
-C
-- 促進肝醣裂解
-
->113-1  
-	下列類固醇衍生物中，何者具有最強效的抗發炎作用？  
-A. betamethasone  
-B. prednisolone  
-C. hydrocortisone  
-D. paramethasone  
-?  
-A
-
-
-
-#### **A. Estrogens, Progestins & Oral Contraceptives**
-
----
-
-#### **(A) Estrogens**
-
-23. **女性體內主要的三種 estrogens**
-    
-    - 17β-estradiol (**E2**) 最強
+    - ==17β-estradiol (**E2**) 最強==
     - Estrone (**E1**)
     - Estriol (**E3**)
-24. **來源：**
+##### 2. 來源：
     
     - **天然 estrogens 與 progestins 為類固醇，結構來自 cholesterol**
     - **製造部位：**
         - **停經前：** 主要由卵巢 (Ovary) 製造。
         - **懷孕時：** 胎盤 (Placenta) 可大量產生 estrogens 與 progestins。
         - **其他：** 骨骼肌、肝臟、脂肪組織、下視丘等亦可產生。
+    - E2、E1 可互相轉換，最終變成E3
 
 > 考這兩個，主要是 Mestranol
 ![[Pasted image 20250108110730.png]]
 
 
-
----
-
-#### **2. Estrogens 的生理效應**
-
-**(1) 機制：**
-
-- **Estrogen receptor isoforms：**
-    
-    - 兩種受體：**α 及 β**，為類固醇、固醇、視黃酸及甲狀腺受體超家族的成員。
-    - **受體位置：** 存在於細胞核，影響DNA轉錄作用，與熱休克蛋白 (Heat shock proteins) 結合穩定受體。
-
-
-
----
-
-#### **(2) 女性成熟與子宮內膜作用**
-
-- **女性成熟：** 與女性生殖系統的發育有關。
-- **子宮內膜：** 調控內膜週期性變化。
-
----
-
-#### **(3) 代謝與心血管作用**
+###### (1) 代謝與心血管作用
 
 - **骨骼作用：**
     - 減少破骨細胞 (Osteoclast) 的活性，促進其凋亡。串前面。
@@ -490,37 +449,35 @@ A
 
 ---
 
-#### **(4) 血液凝固的作用**
+###### (2) 血液凝固的作用
 
 - **增加血液凝固性：**
     
     - 提高血漿中凝血因子 II, VII, IX, X 的濃度，降低抗凝血因子 protein C, protein S, antithrombin III。
-    - 增加纖維蛋白溶酶原 (Plasminogen)，降低血小板黏附性。
-- **臨床風險：**
-    
-    - **雌激素同時增加凝血與纖維蛋白溶解作用，若兩者失衡，可能引發不良影響。**
+    - 增加纖維蛋白溶酶原 (Plasminogen)，降低血小板黏附性。可能引發不良影響。
+
 
 ---
 
-#### **3. 臨床用途**
+##### 3. 臨床用途
 
-**(1) 原發性性腺功能低下 (Primary hypogonadism):**
+###### **(1) 原發性性腺功能低下 (Primary hypogonadism):**
 
-- 用於雌激素缺乏患者的替代療法。
+- 用於雌激素缺乏、或割除卵巢患者的替代療法。
 
-**(2) 停經後荷爾蒙療法 (Postmenopausal Hormonal Therapy):**
+###### **(2) 停經後荷爾蒙療法 (Postmenopausal Hormonal Therapy):**
 
 - **停經後的症狀：**
     - 月經停止、潮熱 (Vasomotor symptoms)、睡眠障礙、生殖道萎縮。
     - 血管再運動(vasomotor symptoms) ，盜汗、熱潮紅
 
----
 
-#### 4. 停經後雌激素替代療法的益處
+
+##### 4. 停經後雌激素替代療法的益處
 
 ==如果子宮還完整，必須補充黃體素 (Progestin)==
-- **聯合治療：雌激素 + 黃體素 (Progestin):**
-    - 降低子宮內膜癌的風險。
+聯合治療：雌激素 + 黃體素 (Progestin):降低子宮內膜癌的風險。
+    
 
 
 
@@ -529,82 +486,66 @@ A
 
 ---
 
-#### **Progestins**
+#### (B) Progestins
 
-25. **自然黃體酮：**
+1. **自然黃體酮：**
     - 最重要的天然黃體素為 **Progesterone**。
-26. **合成黃體素 (Synthetic Progestins)：**
+2. **合成黃體素 (Synthetic Progestins)：**
     - **==21 碳==化合物：**
-        - 如 Hydroxyprogesterone、Medroxyprogesterone、Megestrol、Dimethisterone，化學與藥理學上最接近 Progesterone。
+        如 Hydroxyprogesterone、Medroxyprogesterone、Megestrol、Dimethisterone，化學與藥理學上最接近 Progesterone。
 
 ![[Pasted image 20250108112706.png]]
+- ==其中 Desogestrel、Norethindrone 不會活化雄性素受體==
 
----
 
-#### Progesterone
+3. 機制：受體與基因相互作用
 
-**(1) 機制：**
 
-- 與其他類固醇激素相似，通過受體與基因相互作用。
 
-**(2) Progesterone 的生理效應：**
+##### 生理效應：
 
-27. **乳腺：**
-    - 促進乳腺分泌器官的泡狀小葉發育 (Alveolobular Development)。
-28. **促排卵：**
+1. **促排卵：**
     - 參與排卵前 **LH 峰值 (LH Surge)** 的產生。
-29. **子宮內膜：**
+2. **子宮內膜：**
     - 引起排卵後子宮內膜的成熟及分泌改變。
-30. **基礎體溫增加**，+ 0.5之類
-31. **減少子宮收縮：**
+3. **基礎體溫增加**，+ 0.5之類
+4. **減少子宮收縮：**
+
+
 
 ---
 
-#### **主要用途**
+#### 1. Fertility Control避孕藥
 
-32. **激素替代療法 (HRT)：**
-    - 用於治療激素不足相關疾病。
-33. **荷爾蒙避孕 (Hormonal Contraception)：**
-    - 單一或合併治療。
-34. **長期卵巢抑制：**
-    
-	- 痛經 (Dysmenorrhea)。
-	- 子宮內膜異位症 (Endometriosis)。
-	- 月經失調 (Bleeding Disorders)。
-
----
-
-#### **Fertility Control**避孕藥
-
-35. **口服避孕藥 (Combination Oral Contraception)**： **成分：**
+1. **口服避孕藥 (Combination Oral Contraception)**： 
     
     - **合成雌激素：**
         - Ethinyl Estradiol、Mestranol。
     - **合成黃體素：**
-        - 減少子宮內膜增生。
-36. **作用機制：**
+        - ==減少子宮內膜增生，當雌激素不適用時使用==
+2. **作用機制：**
     
     - 抑制垂體功能 (Gonadotropin Secretion)，阻止排卵。==即讓LH、FSH釋放被抑制==
     - 影響宮頸黏液、子宮內膜及輸卵管運動，降低受孕及著床的可能性。不利受精
 
 	- 血栓性疾病禁用
----
 
 
 
 
----
 
-#### **Progestin-Only Contraception**
 
-37. **適用族群：**
+
+#### 2. Progestin-Only Contraception
+
+1. **適用族群：**
     
-    - **適合不適用雌激素的患者，**例如：
+    - **適合不適用雌激素的患者，例如：
         - 血栓栓塞性疾病 (Thromboembolic Disorder)。
         - 子宮內膜癌 (Endometrial Cancer)。
     - 特點：**對特定病患群體更為安全。**
 
-38. **常見製劑：**
+2. **常見製劑：**
     
     - **藥物列表：**
         - Medroxyprogesterone。
@@ -615,51 +556,39 @@ A
 
 ---
 
-#### **Postcoital Contraceptives**
+#### 3. Postcoital Contraceptives
 
-39. **用途：**
+- 在性交後服用的==緊急避孕==方式。
     
-    - 在性交後服用的==緊急避孕==方式。
-40. **效果：**
-    
-    - **治療時間：** 72 小時內開始治療。
-    - **成功率：** 高達 99%。
-41. **常用藥物：**
-   
 - ==Mifepristone==：
 	- 為黃體素和糖皮質激素受體拮抗劑。
 	- 可以治 cushing syndrome
-	- **機制：** 黃體溶解作用 (Luteolytic Effect)。
+	- **機制：** 黃體溶解作用 (Luteolytic Effect)，使黃體退化，黃體素下降而避免著床。
 
 ---
 
-#### Estrogen & Progesterone Inhibitors & Antagonists
+### B. Estrogen & Progesterone Inhibitors & Antagonists
 
-42. ==Tamoxifen== 與相關藥物：
-    
-    - **作用：**
-        - 藥物進入細胞後與雌激素受體 (ER) 結合，改變基因表達。
-    - **分類：**
-        - 為選擇性雌激素受體調節劑 (Selective Estrogen Receptor Modulator, SERM)。可以改變基因的表達
-        - partial agonist
+(A)==Tamoxifen== 與相關藥物：*非固醇類抗雌激素藥物*
+- **作用：**
+    - 藥物進入細胞後與雌激素受體 (ER) 結合，改變基因表達。
+- **分類：**
+    - 選擇性雌激素受體調節劑 (Selective Estrogen Receptor Modulator, SERM)，白話是在某些組織致效、某些拮抗
+- **世代劃分：**
+    **第一代：** Tamoxifen  作用較簡單。
         
-    
-43. **SERM 的世代劃分：**
-    
-    - **第一代：** Tamoxifen
-        - 作用較簡單。
-    - **第二代：** Raloxifene
-        - 具有更高的選擇性。
+    **第二代：** Raloxifene  具有更高的選擇性。
+
 
 
 ---
-
+#今天讀到這裡
 #### **Tamoxifen**
 
-44. **作用與機制：**
+1. **作用與機制：**
     
-    - Tamoxifen 是 **雌激素受體 (Estrogen Receptor, ER)** 的 **競爭性部分致效拮抗劑**。(有全致效劑時可以做為拮抗劑)
-45. **臨床用途：**
+    - Tamoxifen 是 **雌激素受體 (Estrogen Receptor, ER)** 的 **競爭性部分致效拮抗劑**。(有==全致效劑時可以做為拮抗劑==，與致效劑競爭)
+2. **臨床用途：**
     
     - **乳癌治療：**
         - 用於==治療 「雌激素受體陽性」 的乳癌患者==，特別是 **停經前與停經後** 的婦女。可預防
@@ -668,10 +597,10 @@ A
         - 預防絕經後女性的腰椎骨密度流失。
         - 改善血脂變化，預防動脈粥樣硬化風險。
 
-46. **潛在風險：**
+3. **潛在風險：**
     
     - 由於部分致效活性可能增加 **子宮內膜癌** 與 **子宮惡性肉瘤** 的風險。
-47. **禁忌症：**
+4. **禁忌症：**
     
     - 禁用於服用抗凝血療法或有 **深靜脈血栓 (DVT)** 或 **肺栓塞 (PE)** 病史的女性。==促進血栓形成，和 estrogen 一樣==
 
@@ -680,11 +609,11 @@ A
 
 #### **Toremifene** 不會考
 
-48. **結構與用途：**
+5. **結構與用途：**
     
     - Toremifene 是 **Tamoxifen 的氯化衍生物**。
     - 用於治療 **荷爾蒙反應性轉移性乳癌**，作為 Tamoxifen 的替代藥物。
-49. **副作用：**
+6. **副作用：**
     
     - 副作用與 Tamoxifen 類似，兩者在子宮內膜癌的發生率上無顯著差異。
 
@@ -704,24 +633,24 @@ A
 - **Toremifene 作為替代藥物：**
     - 適用於相似的臨床情境，副作用風險無顯著差異。
 
-### **SERM (Selective Estrogen Receptor Modulators) 與抗孕藥物筆記整理**
+
 
 ---
 
 #### **Raloxifene**
 
-50. **作用機制：**
+7. **作用機制：**
     
     - Raloxifene 為部分雌激素受體激動劑-拮抗劑 (SERM)，在不同目標組織中具有選擇性作用。
     - **對不同組織的作用：**
         - **脂質代謝與骨骼：** 具雌激素樣效果，可降低 LDL、增加 HDL，並預防骨質流失（特別是脊椎骨）。
         - **子宮內膜與乳腺：** 無刺激作用，降低相關癌症風險。
-51. **適應症：**
+8. **適應症：**
     
     - **美國 FDA 核准：**
         - 預防停經後骨質疏鬆。
         - 預防具有風險因子的女性乳腺癌。
-52. **副作用：**
+9. **副作用：**
     
     - 增加肺栓塞與深部靜脈血栓（DVT）的風險。
 
@@ -749,12 +678,12 @@ A
 
 #### **抗孕藥物：Mifepristone (RU486)**
 
-53. **作用機制：**
+10. **作用機制：**
     
     - **強效抗孕激素 (Antiprogestin)：**
         - 與孕激素受體結合並抑制其活性。
         - 也與糖皮質激素受體結合並產生拮抗作用。
-54. **用途：**
+11. **用途：**
     
     - **避孕：**
         - 單次服用 600 mg，有效作為緊急避孕藥。
@@ -764,7 +693,7 @@ A
             - **800 mg/天，連續 2 天。**
             - 成功率超過 85%。
         - 與 **前列腺素 E1 或米索前列醇**（misoprostol）聯合使用，成功率超過 95%。
-55. **副作用：**
+12. **副作用：**
     
     - **主要副作用：** 出血時間延長，但通常不需進一步治療。
 
@@ -782,11 +711,11 @@ A
 
 #### **基本特性**
 
-56. **結構：**
+13. **結構：**
     
     - **Danazol** 是 **17-ethinyltestosterone** 的衍生物。
     - 具有 **弱黃體素 (Progestational)**、**雄激素 (Androgenic)** 及 **糖皮質激素 (Glucocorticoid)** 活性。
-57. **作用機制：**
+14. **作用機制：**
     
     - 抑制腦下垂體前葉 (Anterior Pituitary) 的 **LH** 與 **FSH** 釋放，進而減少卵巢功能。
     - 抑制卵巢功能：
@@ -808,13 +737,13 @@ A
 
 #### **臨床應用**
 
-58. **主要用途：**
+15. **主要用途：**
     
     - 抑制性腺功能（Inhibitor of gonadal function）。
     - **治療疾病：**
         - **子宮內膜異位症 (Endometriosis)。**
         - **良性乳房纖維囊腫 (Fibrocystic Breast Disease)。**
-59. **副作用與注意事項：**
+16. **副作用與注意事項：**
     
     - **肝功能異常：**
         - Danazol 在部分患者中已報導可引起輕至中度的肝細胞損傷，使用時需謹慎。
@@ -841,14 +770,14 @@ A
 
 #### **Aromatase 抑制劑分類與作用：**
 
-60. **選擇性非類固醇 Aromatase 抑制劑：**
+17. **選擇性非類固醇 Aromatase 抑制劑：**
     
     - **Anastrozole** 和 **Letrozole**
         - 作用：選擇性抑制 Aromatase。
         - 臨床應用：用於部分對 **Tamoxifen** 產生抗藥性的乳癌患者。
     - **特點：**
         - 適用於 **晚期乳癌 (Advanced Breast Cancer)** 的女性。
-61. **不可逆類固醇 Aromatase 抑制劑：**
+18. **不可逆類固醇 Aromatase 抑制劑：**
     
     - **Exemestane**
         - 結構：類固醇分子。
@@ -879,7 +808,7 @@ A
 
 #### **Clomiphene 的作用機制與特性**
 
-62. **Clomiphene 的作用：**
+19. **Clomiphene 的作用：**
     
     - **部分激動劑 (Partial Agonist)**：
         - Clomiphene 是一種對雌激素受體的部分激動劑，能有效抑制更強的雌激素作用。
@@ -888,7 +817,7 @@ A
         - **抑制雌激素的負回饋作用**：
             - 在下視丘抑制 17β-雌二醇（Estradiol, E2）對促性腺激素的負回饋，導致：
                 - **GnRH 分泌增加** → **FSH 與 LH 分泌增加** → 刺激卵巢排卵與雌激素生成。
-63. **臨床應用：**
+20. **臨床應用：**
     
     - **適應症：**
         - 用於治療排卵障礙的患者，特別是有生育需求的女性。
@@ -940,7 +869,7 @@ A
 
 #### **B. Anti-Androgens**
 
-64. **類固醇合成抑制劑 (Steroid Synthesis Inhibitors)**：
+21. **類固醇合成抑制劑 (Steroid Synthesis Inhibitors)**：
     - **Ketoconazole**：
         - **主要用途：** 抗黴菌藥物。
         - **額外作用：** 抑制**腎上腺與性腺類固醇**的合成。
@@ -949,7 +878,7 @@ A
 
 ---
 
-65. **類固醇前驅物轉換為雄激素的抑制劑**：
+22. **類固醇前驅物轉換為雄激素的抑制劑**：
     
     **(1) 17ɑ-羥化酶抑制劑 (17ɑ-hydroxylase inhibitors)**：
     
@@ -1010,7 +939,7 @@ A
 
 #### **C. Receptor Inhibitors (受體抑制劑)**
 
-66. **Cyproterone 與 Cyproterone Acetate**
+23. **Cyproterone 與 Cyproterone Acetate**
     
     - **作用機制：**
         - 有效的抗雄激素 (Antiandrogen)，通過抑制雄激素在靶器官的作用。
@@ -1019,7 +948,7 @@ A
     - **適應症：**
         - 治療**女性多毛症 (Hirsutism)**。
         - 減少**男性過度性衝動 (Excessive Sexual Drive)**。
-67. **Flutamide**
+24. **Flutamide**
     
     - **作用機制：**
         - **取代苯胺類化合物**，為強效抗雄激素，作為雄激素受體的競爭性拮抗劑。
@@ -1130,21 +1059,21 @@ B
 
 #### **胰臟產生的激素** _(Table 41-1)_
 
-68. **Insulin**
+25. **Insulin**
     - **功能：** 身體的儲存及合成代謝激素。
-69. **Islet Amyloid Polypeptide (IAPP 或 Amylin)**
+26. **Islet Amyloid Polypeptide (IAPP 或 Amylin)**
     - **作用：**
         - 減少食慾
         - 延遲胃排空
         - 減少胰高血糖素及胰島素分泌
     - **目的：** 降低總胰島素需求。
-70. **Glucagon**
+27. **Glucagon**
     - **功能：** 提高血糖，動員肝醣儲備。
-71. **Somatostatin**
+28. **Somatostatin**
     - **功能：** 抑制所有分泌細胞的分泌。
-72. **Pancreatic Peptide**
+29. **Pancreatic Peptide**
     - **功能：** 協助消化過程，但機制尚未明確。
-73. **Ghrelin**
+30. **Ghrelin**
     - **功能：** 刺激腦下垂體分泌生長激素。
 
 ---
@@ -1211,16 +1140,16 @@ B
 
 #### **2. ATP-Gated K+ 通道 (KATP) 與胰島素釋放機制** _(Figure 41-2)_
 
-74. **靜止狀態：**
+31. **靜止狀態：**
     
     - ATP 水平低，KATP 通道保持開啟，K+ 沿濃度梯度擴散，維持細胞膜完全極化（負電位）。
     - 胰島素釋放量極少。
-75. **葡萄糖濃度升高時：**
+32. **葡萄糖濃度升高時：**
     
     - ATP 生產增加，KATP 通道關閉，細胞膜去極化。
     - 電壓門控鈣離子通道 (Voltage-gated Calcium Channel) 開啟，細胞內鈣離子濃度升高。
     - 鈣離子濃度增加導致胰島素釋放量上升。
-76. **Insulin secretagogues（胰島素分泌促進劑）：**
+33. **Insulin secretagogues（胰島素分泌促進劑）：**
     
     - 作用於 ATP 依賴型鉀通道，使通道關閉，進一步引起細胞膜去極化，促進胰島素分泌。
 
@@ -1261,12 +1190,12 @@ B
 
 #### **重點整理**
 
-77. **胰島素分泌：**
+34. **胰島素分泌：**
     - 由葡萄糖和 GLP-1 等刺激信號調控。
     - 抑制信號包括生長抑素與慢性高血糖。
-78. **胰島素促進劑：**
+35. **胰島素促進劑：**
     - 如磺醯脲類 (Sulfonylureas) 作用於 KATP 通道，促進胰島素分泌。
-79. **胰島素受體：**
+36. **胰島素受體：**
     - 受體活化後增強葡萄糖攝取、糖原合成及脂肪生成，並激活細胞增殖相關通路。
 
 ### **Insulin Preparations 筆記整理**
@@ -1357,12 +1286,12 @@ B
 
 #### **[重點整理]**
 
-80. **作用時間與用途：**
+37. **作用時間與用途：**
     - Rapid-acting：快速吸收，餐前立即使用。
     - Short-acting：飯前 30 分鐘注射，可靜脈使用。
     - Intermediate-acting：混合注射，提供中等時效。
     - Long-acting：平穩背景濃度，減少低血糖風險。
-81. **特殊設計：**
+38. **特殊設計：**
     - **Hexamer 結構（Regular insulin）：** 延緩吸收。
     - **酸性溶液沉澱（Glargine）：** 延長作用時間。
     - **白蛋白結合（Detemir）：** 增加穩定性。
@@ -1374,17 +1303,17 @@ B
 
 目前美國核准的六大類降血糖藥物，適用於 **第 2 型糖尿病** 患者：
 
-82. **促進胰島素分泌 (Binding to the sulfonylurea receptor):**
+39. **促進胰島素分泌 (Binding to the sulfonylurea receptor):**
     - **藥物類型：** Sulfonylureas, Meglitinides, D-phenylalanine derivatives。
-83. **作用於肝臟、肌肉及脂肪組織降低血糖：**
+40. **作用於肝臟、肌肉及脂肪組織降低血糖：**
     - **藥物類型：** Biguanides, Thiazolidinediones。
-84. **延緩腸道葡萄糖吸收：**
+41. **延緩腸道葡萄糖吸收：**
     - **藥物類型：** α-Glucosidase inhibitors。
-85. **模仿 incretin 效應或延長 incretin 的作用：**
+42. **模仿 incretin 效應或延長 incretin 的作用：**
     - **藥物類型：** GLP-1 receptor agonists, DPP-4 inhibitors。
-86. **抑制腎臟葡萄糖再吸收：**
+43. **抑制腎臟葡萄糖再吸收：**
     - **藥物類型：** SGLT 抑制劑 (Sodium glucose co-transporter inhibitors)。
-87. **作用機制不明或其他：**
+44. **作用機制不明或其他：**
     - **藥物類型：** Pramlintide, Bromocriptine, Colesevelam。
 
 ---
@@ -1393,13 +1322,13 @@ B
 
 **a. Sulfonylureas**
 
-88. **藥物：**
+45. **藥物：**
     - 第一代：Tolbutamide, Tolazamide, Acetohexamide, Chlorpropamide（少用）。
     - 第二代：Glyburide (Glibenclamide), Glipizide, Glimepiride, Gliclazide。
-89. **作用機制：**
+46. **作用機制：**
     - **結合到胰島素β細胞上的 sulfonylurea receptor (140-kDa receptor)**，此受體與 ATP 敏感性鉀離子通道 (KATP) 結合。
     - **阻止鉀離子外流** → 造成細胞膜去極化 → 開啟鈣離子通道 → **刺激胰島素分泌**。
-90. **副作用：**
+47. **副作用：**
     - 低血糖（最常見，症狀包括冒冷汗、心悸、頭痛、痙攣）。
     - 體重增加。
 
@@ -1407,25 +1336,25 @@ B
 
 **b. Meglitinides (例如：Repaglinide)**
 
-91. **作用機制：**
+48. **作用機制：**
     - 經由調控鉀離子通道 (KATP)，促進胰島素分泌。
-92. **特性：**
+49. **特性：**
     - 快速起效，**口服 1 小時內達到高峰濃度**。
     - **主要控制餐後血糖**（Postprandial glucose excursions）。
     - 適用於 **腎功能不全及老年患者**。
-93. **作用時間：**
+50. **作用時間：**
     - 持續時間約 4-7 小時。
 
 ---
 
 **c. D-Phenylalanine Derivatives (例如：Nateglinide)**
 
-94. **作用機制：**
+51. **作用機制：**
     - 透過 ATP 敏感性鉀離子通道，**快速且短暫刺激胰島素分泌**。
-95. **特性：**
+52. **特性：**
     - 適用於 **腎功能不全及老年患者**。
     - 與 meglitinides 類似，主要控制 **餐後血糖**。
-96. **作用時間：**
+53. **作用時間：**
     - 快速起效，口服後約 1 小時達高峰濃度，持續約 4 小時。
 
 ---
@@ -1448,17 +1377,17 @@ B
 
 目前美國核准的六大類降血糖藥物，適用於 **第 2 型糖尿病** 患者：
 
-97. **促進胰島素分泌 (Binding to the sulfonylurea receptor):**
+54. **促進胰島素分泌 (Binding to the sulfonylurea receptor):**
     - **藥物類型：** Sulfonylureas, Meglitinides, D-phenylalanine derivatives。
-98. **作用於肝臟、肌肉及脂肪組織降低血糖：**
+55. **作用於肝臟、肌肉及脂肪組織降低血糖：**
     - **藥物類型：** Biguanides, Thiazolidinediones。
-99. **延緩腸道葡萄糖吸收：**
+56. **延緩腸道葡萄糖吸收：**
     - **藥物類型：** α-Glucosidase inhibitors。
-100. **模仿 incretin 效應或延長 incretin 的作用：**
+57. **模仿 incretin 效應或延長 incretin 的作用：**
     - **藥物類型：** GLP-1 receptor agonists, DPP-4 inhibitors。
-101. **抑制腎臟葡萄糖再吸收：**
+58. **抑制腎臟葡萄糖再吸收：**
     - **藥物類型：** SGLT 抑制劑 (Sodium glucose co-transporter inhibitors)。
-102. **作用機制不明或其他：**
+59. **作用機制不明或其他：**
     - **藥物類型：** Pramlintide, Bromocriptine, Colesevelam。
 
 ---
@@ -1467,13 +1396,13 @@ B
 
 **a. Sulfonylureas**
 
-103. **藥物：**
+60. **藥物：**
     - 第一代：Tolbutamide, Tolazamide, Acetohexamide, Chlorpropamide（少用）。
     - 第二代：Glyburide (Glibenclamide), Glipizide, Glimepiride, Gliclazide。
-104. **作用機制：**
+61. **作用機制：**
     - **結合到胰島素β細胞上的 sulfonylurea receptor (140-kDa receptor)**，此受體與 ATP 敏感性鉀離子通道 (KATP) 結合。
     - **阻止鉀離子外流** → 造成細胞膜去極化 → 開啟鈣離子通道 → **刺激胰島素分泌**。
-105. **副作用：**
+62. **副作用：**
     - 低血糖（最常見，症狀包括冒冷汗、心悸、頭痛、痙攣）。
     - 體重增加。
 
@@ -1481,25 +1410,25 @@ B
 
 **b. Meglitinides (例如：Repaglinide)**
 
-106. **作用機制：**
+63. **作用機制：**
     - 經由調控鉀離子通道 (KATP)，促進胰島素分泌。
-107. **特性：**
+64. **特性：**
     - 快速起效，**口服 1 小時內達到高峰濃度**。
     - **主要控制餐後血糖**（Postprandial glucose excursions）。
     - 適用於 **腎功能不全及老年患者**。
-108. **作用時間：**
+65. **作用時間：**
     - 持續時間約 4-7 小時。
 
 ---
 
 **c. D-Phenylalanine Derivatives (例如：Nateglinide)**
 
-109. **作用機制：**
+66. **作用機制：**
     - 透過 ATP 敏感性鉀離子通道，**快速且短暫刺激胰島素分泌**。
-110. **特性：**
+67. **特性：**
     - 適用於 **腎功能不全及老年患者**。
     - 與 meglitinides 類似，主要控制 **餐後血糖**。
-111. **作用時間：**
+68. **作用時間：**
     - 快速起效，口服後約 1 小時達高峰濃度，持續約 4 小時。
 
 ---
@@ -1524,21 +1453,21 @@ B
 
 **藥物：** Phenformin (舊型 Biguanide), Metformin。
 
-112. **作用機制：**
+69. **作用機制：**
     
     - **活化 AMP-活化蛋白激酶 (AMPK)** → 減少肝臟葡萄糖生成 (糖質新生)。
     - 抑制小腸對葡萄糖的吸收，促進肌肉對葡萄糖的攝取。
-113. **臨床應用：**
+70. **臨床應用：**
     
     - **第 2 型糖尿病的一線治療藥物。**
     - **優點：**
         - 不會增加體重。
         - 不會引發低血糖。
-114. **代謝與排泄：**
+71. **代謝與排泄：**
     
     - 經腎臟排泄，若患者有腎功能不全，可能導致乳酸中毒。
     - 可能干擾肝臟對乳酸的代謝，增加乳酸酸中毒風險。
-115. **副作用：**
+72. **副作用：**
     
     - **最常見的副作用：**
         - **胃腸道不適**：如厭食、噁心、嘔吐、腹部不適和腹瀉（約 20% 患者）。
@@ -1774,11 +1703,11 @@ B
 
 ## **臨床效應**
 
-116. **降低血糖**
+73. **降低血糖**
     - 增加 **尿糖排泄**，減少血液中葡萄糖濃度。
-117. **產生輕微利尿作用**
+74. **產生輕微利尿作用**
     - 透過 **鈉排泄增加 (Natriuresis)**，可降低血壓。
-118. **體重減輕**
+75. **體重減輕**
     - **減少 2-5 kg 體重**，適用於有肥胖問題的糖尿病患者。
 
 > [!info] **SGLT2 抑制劑的額外效益**
@@ -2034,11 +1963,11 @@ B
 
 #### 藥物示例
 
-119. **Calcipotriene (Calcipotriol)**：
+76. **Calcipotriene (Calcipotriol)**：
     
     - 用於治療 **牛皮癬 (Psoriasis)**。
     - 這是一種 **維生素 D3 類似物**，透過調節角質形成細胞的生長和分化來治療皮膚疾病。
-120. **Doxercalciferol 與 Paricalcitol**：
+77. **Doxercalciferol 與 Paricalcitol**：
     
     - 用於治療 **慢性腎病 (CKD) 引起的繼發性副甲狀腺功能亢進 (Secondary Hyperparathyroidism)**。
     - **Doxercalciferol**：1α(OH)D₂。
@@ -2049,11 +1978,11 @@ B
 
 ### Fibroblast Growth Factor 23 (FGF23)
 
-121. **主要作用**
+78. **主要作用**
     
     - 抑制 **1,25(OH)₂D**（活化型維生素 D） 的生成
     - 抑制腎臟 **磷酸鹽重吸收**（經由鈉磷共轉運體 NaPi 2a 和 NaPi 2c）
-122. **生理影響**
+79. **生理影響**
     
     - **低磷血症**（Hypophosphatemia）
     - **活化型維生素 D 水平下降**
@@ -2067,11 +1996,11 @@ B
 
 #### **A. Calcitonin**
 
-123. **分泌來源**
+80. **分泌來源**
     
     - 由 **甲狀腺旁濾泡細胞 (parafollicular cells)** 分泌
     - **32 個胺基酸組成的單鏈胜肽**，分子量約 3600
-124. **主要作用**
+81. **主要作用**
     
     - **降低血鈣 (Calcium) 和血磷 (Phosphate)**
     - **抑制破骨細胞 (Osteoclasts) 的骨吸收**
@@ -2089,12 +2018,12 @@ B
 
 #### **B. Glucocorticoids**
 
-125. **作用機制**
+82. **作用機制**
     
     - **抑制維生素 D 刺激的小腸鈣吸收**
     - **促進腎臟鈣排泄**
     - **抑制骨形成**
-126. **臨床影響**
+83. **臨床影響**
     
     - **長期使用可能導致骨質流失與骨質疏鬆**
     - **增加骨折風險**
@@ -2108,12 +2037,12 @@ B
 
 #### **C. Estrogens**
 
-127. **作用機制**
+84. **作用機制**
     
     - **抑制 PTH 造成的骨吸收**
     - **防止絕經後骨質流失**
     - **可短期促進骨密度**
-128. **臨床應用**
+85. **臨床應用**
     
     - **治療或預防更年期後骨質疏鬆症 (Postmenopausal osteoporosis)**
 
@@ -2122,7 +2051,7 @@ B
 > - **增加乳癌 (Breast cancer)、子宮內膜癌 (Endometrial cancer) & 心血管疾病 (Cardiovascular disease) 風險**
 > - **不建議長期使用**
 
-129. **替代方案**
+86. **替代方案**
     - **選擇性雌激素受體調節劑 (SERMs)**
     - **保留骨保護作用，降低不良影響 (如對乳房 & 子宮的影響)**
 
