@@ -1,0 +1,86 @@
+---
+category: 中藥生藥學
+tags:
+  - 中藥詞卡
+  - 辛涼解表
+created: 2025-03-22
+updated: 2025-03-23 20:05
+source:
+  - 常用中藥第二版
+Abstract: 中藥詞卡
+sr-due: 2025-03-27
+sr-interval: 4
+sr-ease: 270
+---
+#首刷 #review
+### 1.口訣/用途
+薄荷（Mentha haplocalyx）
+?
+- **口訣**：無口訣(詳見生藥)
+- **理解**：
+> 
+	該科多為揮發油(局部刺激、驅風、腸胃蠕動)，看到Mentha 即跟薄荷相關的東西
+
+###### 藥理(3)
+?
+- 局部刺激、驅風，蟲
+- 促進腸胃蠕動
+- Menthol 發汗
+
+
+
+### 2. 詞素拆解
+
+- **Mentha-**（源自拉丁文 *mentha*，意為「薄荷」）
+  - **Menthol**（薄荷醇）：從 *mentha* 衍生，指從薄荷中提取的主要成分。
+  - **Menthone**（薄荷酮）：同樣源自 *mentha*，指薄荷中的另一主要成分。
+
+- **-aceae**（植物科名標準後綴）
+
+**完整結構：**
+
+- Mentha piperita = ***Mentha*（薄荷屬）+ *piperita*（有胡椒味的）**
+- **Mentha haplocalyx = *Mentha*（薄荷屬）+ *haplocalyx*（簡單花萼的）**
+ → 即中國常用中藥「薄荷」，其種加詞形容其花萼結構簡單。
+
+- 意義：指一種具有辛香胡椒氣味的薄荷植物，即「胡椒薄荷」，是常見的精油與藥用薄荷來源之一。
+
+
+
+
+
+#### 📌 相關藥材連結
+
+
+
+##### 薄荷和綠薄荷
+
+| 生藥             | 基源              | 成分          |
+| -------------- | --------------- | ----------- |
+| Peppermint oil | Mentha piperita | l-Menthol   |
+| Spearmint oil  | Mentha spicata  | (-)-Carvone |
+
+
+
+
+### 3.薄荷 相關知識點
+- **藥材名稱**：薄荷（Mentha haplocalyx）
+- **科別**：唇形科（Lamiaceae）
+- **用部**：全草（地上部）
+- **活性成分**：
+  - **Monoterpenoids（單萜類）**：
+    - menthol（薄荷醇）-揮發油
+    - *menthone（薄荷酮）*
+
+
+
+
+### 4.閃卡區
+
+- menthol::Mentha haplocalyx
+
+- (-)-Carvone::綠薄荷
+
+- (+)-Carvone::藏茴香
+
+- 薄荷相關詞::**Mentha-**（源自拉丁文 *mentha*，意為「薄荷」）

@@ -3,7 +3,7 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-06
-updated: 2025-03-06 22:27
+updated: 2025-03-20 20:05
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
@@ -11,7 +11,7 @@ Abstract: 中藥詞卡
 ### 1. 概念
 - 大多是根部入藥，外觀接近「人蔘」形狀。
 - 富含皂苷（Ginsenosides, Astragalosides），具有**補氣**強身、增強免疫作用。(所以多屬補氣藥)
-- 五加科的補氣代表：==人參、黃耆(都很強)==
+- 五加科的補氣代表：==人參、黃耆(都很強)== <!--SR:!2025-03-23,3,250-->
 
 ### 2. 詞素拆解
 - Aralia（楤木屬，模式屬）
@@ -23,17 +23,9 @@ Abstract: 中藥詞卡
 #### 相關藥材連結
 [[待用藥材連結]]
 
-人參（Panax ginseng）
-黨參（Codonopsis pilosula）
-西洋參（Panax quinquefolius）
-
-
-
-#### 現代英文關聯
-- Aralia（楤木屬，植物學術語） → 直接使用拉丁名。
-- Araliaceae（五加科） → 由 Aralia 延伸而來，仍然保留其發音與拼寫。
-- Aralia root（楤木根） → 在草藥學中使用，例如 Aralia nudicaulis（野楤木），在北美原住民醫學中常用。
-
+- 人參（Panax ginseng）
+- 黨參（Codonopsis pilosula）
+- 西洋參（Panax quinquefolius）
 
 
 

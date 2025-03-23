@@ -6,18 +6,17 @@ tags:
   - Antifibrinolytic-agent
   - 抗凝血劑
 created: 2025-02-26
-updated: 2025-02-26 09:58
+updated: 2025-03-23 22:20
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
 ---
-#首刷
 ## 🔹 1. 基本資訊
 - **藥名（Drug Name）**：Aminocarprotic acid
 - **分類（Category）**：Antifibrinolytic-agent(抗纖維蛋白溶解劑)、抗凝血劑
 - **MOA（Mechanism of Action）**：
 > [!ERROR] 一句話MOA
-> - 與==Thrombolytics-agent相反==，阻斷 Plasminogen > Plasmin，造成血栓形成，可以治療出血性疾病
+> - 與==Thrombolytics-agent==相反，阻斷 Plasminogen > Plasmin，造成血栓形成，可以治療出血性疾病 <!--SR:!2025-03-24,1,230-->
 
 ## 🔹 2. 相關口訣
 > [!tip] 口訣
