@@ -4,12 +4,12 @@ tags:
   - 中藥詞卡
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 14:41
+updated: 2025-03-24 11:38
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **禾本科（Poaceae）** 是全球最重要的**糧食作物與牧草來源**，包含稻（Oryza sativa）、小麥（Triticum aestivum）、玉米（Zea mays）、甘蔗（Saccharum officinarum）等。  
 - **主要藥用特性：**  

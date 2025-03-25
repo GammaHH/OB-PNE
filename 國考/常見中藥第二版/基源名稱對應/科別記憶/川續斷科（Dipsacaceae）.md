@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 15:14
+updated: 2025-03-24 11:34
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **川續斷科（Dipsacaceae）** 曾被視為獨立科別，但目前多數分類學系統將其歸入**忍冬科（Caprifoliaceae）**，其成員主要為**多年生草本或灌木植物**，以**活血化瘀、補腎強筋骨**的藥用價值聞名。代表植物包括 **川續斷（Dipsacus asperoides）、續斷（Dipsacus fullonum）、羽葉續斷（Dipsacus laciniatus）**。  
 - **主要藥用特性：**  

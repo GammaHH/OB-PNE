@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 15:03
+updated: 2025-03-24 11:34
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **多孔菌科（Polyporaceae）** 是一類**以木材為基質生長的大型腐生或共生真菌**，其子實體通常具有**多孔的孢子管結構**，而非傳統的菌褶。這類真菌在**藥用、森林分解與生態系統平衡**方面具有重要作用。代表屬種包括 **靈芝（Ganoderma spp.）、雲芝（Trametes versicolor）、松杉靈芝（Phellinus spp.）、茯苓（Wolfiporia extensa，部分分類歸入別科）**。  
 - **主要藥用特性：**  

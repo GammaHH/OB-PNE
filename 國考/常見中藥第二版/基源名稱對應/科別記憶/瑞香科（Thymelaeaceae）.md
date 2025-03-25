@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 15:19
+updated: 2025-03-24 11:36
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **瑞香科（Thymelaeaceae）** 是一類**主要由灌木或小喬木組成的雙子葉開花植物科**，其成員常含有**生物鹼、木脂素與強纖維性樹皮**，在**中藥、造紙、香料與園藝**方面具有重要價值。代表植物包括 **瑞香（Daphne odora）、狼毒（Stellera chamaejasme）、喜馬拉雅瑞香（Wikstroemia canescens）、白瑞香（Gnidia glauca）**。  
 - **主要藥用特性（部分有毒，應謹慎使用）：**  

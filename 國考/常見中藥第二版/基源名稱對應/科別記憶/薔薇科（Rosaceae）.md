@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 14:39
+updated: 2025-03-24 11:39
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **薔薇科（Rosaceae）** 是一類廣泛分布的**木本與草本植物**，包含許多**水果類、藥用與觀賞植物**，如 **玫瑰（Rosa spp.）、山楂（Crataegus pinnatifida）、桃（Prunus persica）、枇杷（Eriobotrya japonica）** 等。  
 - **主要藥用特性：**  

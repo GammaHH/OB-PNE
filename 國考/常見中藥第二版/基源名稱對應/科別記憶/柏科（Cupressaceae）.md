@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 14:52
+updated: 2025-03-24 11:35
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **柏科（Cupressaceae）** 主要為**常綠喬木或灌木**，廣泛分布於全球溫帶地區，許多種類**富含揮發油與抗菌成分**，具有**藥用、園藝與木材價值**，如 **側柏（Platycladus orientalis）、圓柏（Juniperus spp.）、紅杉（Sequoia sempervirens）**。  
 - **主要藥用特性：**  

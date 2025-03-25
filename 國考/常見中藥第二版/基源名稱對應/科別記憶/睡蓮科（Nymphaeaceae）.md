@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 14:58
+updated: 2025-03-24 11:38
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **睡蓮科（Nymphaeaceae）** 是一類**主要為水生草本植物的雙子葉開花植物科**，其成員多生長於**靜水或淺水域**，廣泛應用於**藥用、觀賞與文化象徵**，代表植物包括 **睡蓮（Nymphaea spp.）、王蓮（Victoria spp.）、黃花睡蓮（Nuphar lutea）**。  
 - **主要藥用特性：**  

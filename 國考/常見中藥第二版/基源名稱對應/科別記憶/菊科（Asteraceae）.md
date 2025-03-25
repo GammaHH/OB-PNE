@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 14:28
+updated: 2025-03-24 11:39
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **菊科（Asteraceae）** 是被子植物中最大的科之一，包含許多**藥用、食用與觀賞植物**，如 **菊花（Chrysanthemum spp.）、蒲公英（Taraxacum officinale）、紫錐花（Echinacea spp.）** 等。  
 - **主要特性：**  

@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 15:07
+updated: 2025-03-24 11:36
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **樟科（Lauraceae）** 是一類**主要由喬木與灌木組成的雙子葉開花植物科**，以**芳香精油、揮發性物質與藥用價值**著稱，廣泛應用於**中藥、香料、木材與精油提取**。代表植物包括 **樟樹（Cinnamomum camphora）、肉桂（Cinnamomum verum）、牛樟（Cinnamomum kanehirae）、月桂（Laurus nobilis）、鱗皮楠（Lindera aggregata）**。  
 - **主要藥用特性：**  

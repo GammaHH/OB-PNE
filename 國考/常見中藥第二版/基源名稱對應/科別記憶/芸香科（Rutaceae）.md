@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 14:44
+updated: 2025-03-24 11:39
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **芸香科（Rutaceae）** 是一類**富含芳香精油的木本或灌木植物**，包含許多具有**藥用、食用與香料價值**的種類，如 **枳實（Citrus aurantium）、黃柏（Phellodendron chinense）、花椒（Zanthoxylum bungeanum）**。  
 - **主要藥用特性：**  

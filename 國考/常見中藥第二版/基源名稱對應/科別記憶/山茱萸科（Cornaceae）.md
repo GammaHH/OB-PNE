@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 15:24
+updated: 2025-03-24 11:34
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **山茱萸科（Cornaceae）** 是一類**主要由喬木或灌木組成的雙子葉開花植物科**，其成員多數具有**富含鞣質、黃酮、單寧與抗氧化物質的果實**，廣泛應用於**中藥、食品、木材與園藝**。代表植物包括 **山茱萸（Cornus officinalis）、紅瑞木（Cornus alba）、四照花（Cornus kousa）、花楸（Cornus florida）**。  
 - **主要藥用特性：**  

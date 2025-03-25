@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 14:57
+updated: 2025-03-24 11:35
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **木犀科（Oleaceae）** 主要由**喬木、灌木和藤本植物**組成，許多成員富含**揮發油、黃酮類與皂苷**，在**藥用、食用與觀賞**領域具有重要價值。代表植物包括 **連翹（Forsythia suspensa）、女貞（Ligustrum lucidum）、木犀（Osmanthus fragrans）、橄欖（Olea europaea）**。  
 - **主要藥用特性：**  

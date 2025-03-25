@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-11
-updated: 2025-03-20 14:11
+updated: 2025-03-24 11:35
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **毛茛科（Ranunculaceae）** 主要為草本植物，包含許多具有藥用價值的種類，如 **白芍（Paeonia lactiflora）** 和 **附子（Aconitum carmichaelii）**。  
 - **主要特性：**  

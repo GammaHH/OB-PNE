@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 15:08
+updated: 2025-03-24 11:41
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **遠志科（Polygalaceae）** 是一類**以草本、灌木或少數喬木為主的雙子葉開花植物科**，其中許多成員具有**生物鹼與皂苷類化合物**，常用於**藥用、保健與園藝**。代表植物包括 **遠志（Polygala tenuifolia）、苦遠志（Polygala sibirica）、千層塔（Polygala myrtifolia）**。  
 - **主要藥用特性：**  

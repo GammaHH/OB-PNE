@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-11
-updated: 2025-03-20 14:15
+updated: 2025-03-24 11:39
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **蓼科（Polygonaceae）** 植物多為藤本或草本，部分種類具有**塊根發達**的特性，如 **何首烏（Polygonum multiflorum）**。  
 - **主要特性：**  

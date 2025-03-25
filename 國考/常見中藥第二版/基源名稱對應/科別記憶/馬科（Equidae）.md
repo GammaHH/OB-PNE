@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-11
-updated: 2025-03-20 14:14
+updated: 2025-03-24 11:39
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **馬科（Equidae）** 是一類奇蹄目（Perissodactyla）哺乳動物，包括**馬、驢、斑馬**等現存物種，以及許多已滅絕的祖先物種。  
 - **主要特性：**  

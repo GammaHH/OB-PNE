@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 15:08
+updated: 2025-03-24 11:33
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **列當科（Orobanchaceae）** 是一類**主要為寄生性或半寄生性的雙子葉開花植物科**，其中許多成員寄生於**其他植物的根部**，並具有**特殊的生理適應與藥用價值**。代表植物包括 **列當（Orobanche spp.）、肉蓯蓉（Cistanche deserticola）、鹽生肉蓯蓉（Cistanche tubulosa）、假馬先蒿（Pedicularis spp.）**。  
 - **主要藥用特性：**  

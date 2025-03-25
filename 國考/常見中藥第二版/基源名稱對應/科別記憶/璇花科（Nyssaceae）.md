@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 15:15
+updated: 2025-03-24 11:36
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **璇花科（Nyssaceae）** 曾被視為獨立科別，但在最新的**APG植物分類系統**中，通常被歸入**山茱萸科（Cornaceae）**。其成員主要為**落葉喬木**，多分布於**溫帶與亞熱帶地區**，以**富含單寧、抗氧化成分與抗炎特性**著稱。代表植物包括 **璇花樹（Nyssa sinensis）、黑樟（Nyssa sylvatica）、水松（Nyssa aquatica）**。  
 - **主要藥用特性：**  

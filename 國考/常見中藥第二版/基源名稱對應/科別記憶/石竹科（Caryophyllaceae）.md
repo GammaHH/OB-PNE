@@ -3,13 +3,13 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-21
-updated: 2025-03-23 19:19
+updated: 2025-03-24 22:03
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
-sr-due: 2025-03-24
-sr-interval: 1
-sr-ease: 230
+sr-due: 2025-03-27
+sr-interval: 3
+sr-ease: 250
 ---
 #首刷 #review
 ### 1.概念
@@ -35,6 +35,7 @@ sr-ease: 230
 
 
 
+
 ### 3.石竹科（Caryophyllaceae） 相關知識點
 
 
@@ -43,15 +44,15 @@ sr-ease: 230
 ### 4.閃卡區
 
 
-- 石竹科::（Caryophyllaceae）
+- 石竹科::（Caryophyllaceae） <!--SR:!2025-03-26,2,230-->
 
 
-- **Caryophyll-**  
+- **Caryophyll-**  、石竹科（Caryophyllaceae）
 ??
-  來自希臘文 *karyon*（κάρυον，意為「核、種子」）+ *phyllon*（φύλλον，意為「葉」）  
+  來自希臘文 *karyon*（κάρυον，意為「核、種子」）+ *phyllon*（φύλλον，意為「葉」） <!--SR:!2025-03-25,1,210!2025-03-26,2,235-->  
 
 
 
-- 來自希臘文 *karyon*::（κάρυον，意為「核、種子」）
+- 來自希臘文 *karyon*::（κάρυον，意為「核、種子」） <!--SR:!2025-03-26,2,230-->
 
-- *phyllon*::（φύλλον，意為「葉」）  
+- *phyllon*::（φύλλον，意為「葉」） <!--SR:!2025-03-25,1,210-->

@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 14:55
+updated: 2025-03-24 11:39
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **薯蕷科（Dioscoreaceae）** 是一類**主要由藤本或草本植物組成的單子葉植物**，其**地下塊莖發達，富含澱粉與皂苷類化合物**，在**藥用、食用與保健**方面具有重要價值，代表植物包括 **山藥（Dioscorea opposita）、黃藥子（Dioscorea bulbifera）、土茯苓（Smilax glabra，部分分類仍歸為薯蕷科）**。  
 - **主要藥用特性：**  

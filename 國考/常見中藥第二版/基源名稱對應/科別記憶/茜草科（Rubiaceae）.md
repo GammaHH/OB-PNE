@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 14:51
+updated: 2025-03-24 11:39
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **茜草科（Rubiaceae）** 是**以木本與草本植物為主的開花植物科**，其中許多具有**藥用、食用與經濟價值**，如 **茜草（Rubia cordifolia）、巴戟天（Morinda officinalis）、咖啡（Coffea arabica）**。  
 - **主要藥用特性：**  

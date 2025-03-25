@@ -3,13 +3,13 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-21
-updated: 2025-03-23 19:25
+updated: 2025-03-24 22:03
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
-sr-due: 2025-03-24
-sr-interval: 1
-sr-ease: 230
+sr-due: 2025-03-27
+sr-interval: 3
+sr-ease: 250
 ---
 #首刷 #review
 ### 1.概念
@@ -44,6 +44,6 @@ sr-ease: 230
 - **Alismat-**  、澤瀉科（Alismataceae）
 ??
   來自拉丁文屬名 *Alisma*，源自古希臘語 *αλισμα*（álisma），意指「水生植物」或「水田草」。  
-  - 詞根與拉丁語 *aqua*（水）含義相近，皆指與「水」相關的植物。 
+  - 詞根與拉丁語 *aqua*（水）含義相近，皆指與「水」相關的植物。 <!--SR:!2025-03-25,1,210!2025-03-26,2,230--> 
 
-- 澤瀉科:::（Alismataceae）
+- 澤瀉科:::（Alismataceae） <!--SR:!2025-03-26,2,230!2025-03-26,2,230-->

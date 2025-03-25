@@ -6,12 +6,12 @@ tags:
   - Antifibrinolytic-agent
   - 止血劑
 created: 2025-02-26
-updated: 2025-02-27 16:30
+updated: 2025-03-24 11:45
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
 ---
-#首刷
+#首刷 #review 
 ## 🔹 1. 基本資訊
 - **藥名（Drug Name）**：Tranexamic acid
 - **分類（Category）**：Antifibrinolytic-agent、止血劑

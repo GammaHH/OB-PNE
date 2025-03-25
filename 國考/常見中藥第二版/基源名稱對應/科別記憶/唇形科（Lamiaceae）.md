@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 14:33
+updated: 2025-03-24 11:34
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **唇形科（Lamiaceae）** 是一類以**芳香精油**著稱的開花植物，包含許多**藥用、食用與觀賞植物**，如 **羅勒（Ocimum basilicum）、迷迭香（Rosmarinus officinalis）、薄荷（Mentha spp.）** 等。  
 - **主要特性：**  

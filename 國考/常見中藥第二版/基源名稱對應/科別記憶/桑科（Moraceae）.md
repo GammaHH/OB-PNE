@@ -4,12 +4,12 @@ tags:
   - 中藥詞卡
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 14:48
+updated: 2025-03-24 11:35
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **桑科（Moraceae）** 是一類**主要為喬木、灌木或藤本植物**的開花植物，包含許多**藥用、食用與工業價值**的種類，如 **桑樹（Morus alba）、無花果（Ficus carica）、構樹（Broussonetia papyrifera）**。  
 - **主要藥用特性：**  

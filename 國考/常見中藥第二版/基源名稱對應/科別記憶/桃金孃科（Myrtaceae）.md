@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 15:20
+updated: 2025-03-24 11:35
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **桃金孃科（Myrtaceae）** 是一類**主要由喬木或灌木組成的雙子葉開花植物科**，以**芳香精油、抗菌特性與藥用價值**聞名，廣泛應用於**中藥、香精香料、保健食品與園藝**。代表植物包括 **蒲桃（Syzygium samarangense）、番石榴（Psidium guajava）、尤加利（Eucalyptus spp.）、丁香（Syzygium aromaticum）、桃金孃（Myrtus communis）**。  
 - **主要藥用特性：**  

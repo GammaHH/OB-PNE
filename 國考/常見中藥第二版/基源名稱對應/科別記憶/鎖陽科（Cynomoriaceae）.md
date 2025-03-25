@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 15:10
+updated: 2025-03-24 11:39
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **鎖陽科（Cynomoriaceae）** 是**單屬科植物**，僅包含 **鎖陽屬（Cynomorium）**，其中最具代表性的藥用植物為 **鎖陽（Cynomorium songaricum）**，主要分布於**乾旱、半乾旱地區**，具有**寄生性**，依賴宿主植物獲取養分。  
 - **主要藥用特性：**  

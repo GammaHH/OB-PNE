@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 15:21
+updated: 2025-03-24 11:39
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **蠶蛾科（Bombycidae）** 是**鱗翅目（Lepidoptera）中的一類昆蟲科**，以**桑葉為食的幼蟲（蠶）與經濟價值**著稱，主要用於**蠶絲生產、科學研究與中藥**。代表物種包括 **家蠶（Bombyx mori）、野蠶（Bombyx mandarina）、白尾蠶（Theophila religiosa）**。  
 - **主要經濟與藥用特性：**  

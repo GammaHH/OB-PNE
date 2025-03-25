@@ -6,12 +6,12 @@ tags:
   - 抗凝血劑
   - Thrombolytics-agent
 created: 2025-02-26
-updated: 2025-02-26 09:43
+updated: 2025-03-24 11:45
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
 ---
-#首刷
+#首刷 #review 
 ## 🔹 1. 基本資訊
 - **藥名（Drug Name）**：Streptokinase
 - **分類（Category）**：抗凝血劑、Thrombolytics-agent

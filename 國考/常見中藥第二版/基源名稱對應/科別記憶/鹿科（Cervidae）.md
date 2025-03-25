@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 15:17
+updated: 2025-03-24 11:40
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **鹿科（Cervidae）** 是一類**主要由偶蹄目（Artiodactyla）中型至大型草食性哺乳動物組成的動物科**，其特徵為**雄性（部分雌性）具有角（鹿角）、四肢修長、適應森林與草原環境**，廣泛應用於**中藥、保健品、皮革與野生動物保護**。代表物種包括 **梅花鹿（Cervus nippon）、馬鹿（Cervus elaphus）、麋鹿（Elaphurus davidianus）、馴鹿（Rangifer tarandus）、白尾鹿（Odocoileus virginianus）**。  
 - **主要藥用特性：**  

@@ -4,26 +4,26 @@ tags:
   - 中藥詞卡
   - 辛溫解表
 created: 2025-03-22
-updated: 2025-03-23 21:55
+updated: 2025-03-24 22:11
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
-sr-due: 2025-03-24
-sr-interval: 1
+sr-due: 2025-03-26
+sr-interval: 2
 sr-ease: 230
 ---
-#首刷 #review
+#review 
 ### 1.口訣/用途
 辛夷（Magnolia biondii Pamp.）
 ?
 - **口訣**：**心儀木蘭**，**買花跟Pizza來**讓她開**心治鼻塞**
-- **理解**：心儀(辛夷)、木蘭(科)、買(magnolin)、花(揮發油)、Pizza(α-pinene, Sabinene)、來(木脂素Lignan)、心(Cineole)、治鼻塞(用途)
+- **理解**：心儀(辛夷)、木蘭(科)、買(magnolin)、花(用部花蕾)、Pizza(α-pinene, Sabinene)、來(木脂素Lignan)、心(Cineole)、治鼻塞(用途)；開(未開花蕾)
 > 
-	治**鼻相關症狀**，鼻炎、鼻蓄膿、流鼻涕(**通九竅**)
+	治**鼻相關症狀**，鼻炎、鼻蓄膿、流鼻涕(**通九竅**) <!--SR:!2025-03-26,2,230-->
 
 ###### 藥理(2)
 ?
-- 抗過敏、抗發炎
+- 抗過敏、抗發炎 <!--SR:!2025-03-25,1,210-->
 
 ### 2. 詞素拆解
 
@@ -48,7 +48,7 @@ sr-ease: 230
 
 ### 3.辛夷 相關知識點
 - **藥材名稱**：辛夷（Magnolia biondii Pamp.）
-- **科別**::木蘭科（Magnoliaceae）
+- **科別**::木蘭科（Magnoliaceae） <!--SR:!2025-03-26,2,230-->
 - **用部**：未開花蕾
 - **活性成分**：
 - 揮發油：
@@ -66,8 +66,8 @@ sr-ease: 230
 ?
 - α-pinene(α-蒎烯)
 - Cineole
-- Sabinene
+- Sabinene <!--SR:!2025-03-26,2,230-->
 
-magnolin(辛夷素)
+magnolin(辛夷素)的類別
 ?
-木脂素(Lignan)
+木脂素(Lignan) <!--SR:!2025-03-26,2,230-->

@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 15:02
+updated: 2025-03-24 11:36
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **棕櫚科（Arecaceae）** 是一類**主要由喬木與灌木組成的單子葉開花植物科**，以**發達的樹幹、羽狀或掌狀葉、豐富的油脂與纖維**著稱，廣泛應用於**食品、藥用、建築與園藝**。代表植物包括 **椰子（Cocos nucifera）、棕櫚（Areca catechu）、油棕（Elaeis guineensis）、蒲葵（Livistona chinensis）**。  
 - **主要藥用特性：**  

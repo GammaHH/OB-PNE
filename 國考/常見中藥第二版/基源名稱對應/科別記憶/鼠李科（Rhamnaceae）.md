@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 15:22
+updated: 2025-03-24 11:40
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **鼠李科（Rhamnaceae）** 是一類**主要由灌木、喬木與藤本組成的雙子葉開花植物科**，其成員富含**生物鹼、黃酮與蒽醌類化合物**，廣泛應用於**中藥、食品、木材與染料**。代表植物包括 **鼠李（Rhamnus davurica）、酸棗（Ziziphus jujuba var. spinosa）、欖仁（Hovenia dulcis）、美鼠李（Rhamnus cathartica）、大青葉（Rhamnus utilis）**。  
 - **主要藥用特性：**  

@@ -4,12 +4,12 @@ tags:
   - 中藥詞卡
   - 辛涼解表
 created: 2025-03-22
-updated: 2025-03-23 21:50
+updated: 2025-03-24 22:09
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
-sr-due: 2025-03-24
-sr-interval: 1
+sr-due: 2025-03-26
+sr-interval: 2
 sr-ease: 210
 ---
 #review

@@ -6,12 +6,12 @@ tags:
   - 止血劑
   - Serine-protease抑制劑
 created: 2025-02-26
-updated: 2025-02-26 10:03
+updated: 2025-03-24 11:44
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
 ---
-#首刷
+#首刷 #review 
 ## 🔹 1. 基本資訊
 - **藥名（Drug Name）**：Aprotinin
 - **分類（Category）**：止血劑、Serine-protease抑制劑

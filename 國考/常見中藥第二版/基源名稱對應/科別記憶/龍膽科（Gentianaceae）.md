@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 14:59
+updated: 2025-03-24 11:40
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 
 ### 1. 概念  
 - **龍膽科（Gentianaceae）** 是一類**主要由草本植物組成的雙子葉開花植物科**，以**苦味成分與清熱藥效**著稱，常見於高山或濕地環境，廣泛應用於**中藥、草藥與苦味健胃劑**。代表植物包括 **龍膽（Gentiana scabra）、當藍（Swertia mileensis）、秦艽（Gentiana macrophylla）**。  

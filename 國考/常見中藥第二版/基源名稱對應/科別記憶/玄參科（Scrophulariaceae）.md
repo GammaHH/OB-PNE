@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-11
-updated: 2025-03-20 14:13
+updated: 2025-03-24 11:36
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **玄參科（Scrophulariaceae）** 或部分分類中的 **地黃屬（Rehmannia）** 植物，以根部肥厚的塊根為主要特徵，常用於藥用。  
 - **主要特性：**  

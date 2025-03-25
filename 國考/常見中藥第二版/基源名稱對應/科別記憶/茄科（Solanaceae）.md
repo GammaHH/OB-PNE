@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 14:56
+updated: 2025-03-24 11:38
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **茄科（Solanaceae）** 是一類**以草本或灌木植物為主的雙子葉開花植物科**，其中許多具有**藥用、食用與毒性成分**，代表植物包括 **枸杞（Lycium barbarum）、曼陀羅（Datura stramonium）、煙草（Nicotiana tabacum）、馬鈴薯（Solanum tuberosum）、番茄（Solanum lycopersicum）**。  
 - **主要藥用特性：**  

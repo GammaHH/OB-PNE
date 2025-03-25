@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 15:03
+updated: 2025-03-24 11:34
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **十字花科（Brassicaceae）** 是一類**主要由草本植物組成的雙子葉開花植物科**，以**富含芥子油苷（Glucosinolates）與辛辣風味**著稱，廣泛應用於**藥用、食用與農業**。代表植物包括 **白芥（Brassica alba）、大蒜芥（Alliaria petiolata）、芥菜（Brassica juncea）、蘿蔔（Raphanus sativus）、油菜（Brassica napus）**。  
 - **主要藥用特性：**  

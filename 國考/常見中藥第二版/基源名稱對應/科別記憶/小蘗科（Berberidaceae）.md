@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 15:09
+updated: 2025-03-24 11:34
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **小蘗科（Berberidaceae）** 是一類**主要由灌木與草本植物組成的雙子葉開花植物科**，以**富含生物鹼、苦味成分與抗菌特性**著稱，廣泛應用於**中藥、保健品與園藝**。代表植物包括 **小蘗（Berberis spp.）、黃連（Coptis chinensis，部分分類仍歸於此科）、淫羊藿（Epimedium spp.）、八角蓮（Dysosma versipellis）**。  
 - **主要藥用特性：**  

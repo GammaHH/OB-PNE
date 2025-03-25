@@ -3,12 +3,12 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-20 14:46
+updated: 2025-03-24 11:35
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 ---
-#首刷
+#首刷 #review 
 ### 1.概念
 - **木蘭科（Magnoliaceae）** 是一類**主要為喬木或灌木的開花植物**，以**芳香精油與強韌木質**著稱，包含許多**藥用、觀賞與木材價值**的種類，如 **厚朴（Magnolia officinalis）、辛夷（Magnolia biondii）、玉蘭（Magnolia denudata）**。  
 - **主要藥用特性：**  
