@@ -2,11 +2,11 @@
 title: Streptokinase
 category: 未分類
 tags:
-  - 藥理學
+  - 藥理藥化
   - 抗凝血劑
   - Thrombolytics-agent
 created: 2025-02-26
-updated: 2025-03-24 11:45
+updated: 2025-04-01 20:11
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論

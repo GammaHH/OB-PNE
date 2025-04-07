@@ -2,13 +2,18 @@
 category: 中藥生藥學
 tags:
   - 中藥科別
+  - 豆科
 created: 2025-03-06
-updated: 2025-03-24 11:39
+updated: 2025-04-07 11:19
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
+sr-due: 2025-04-20
+sr-interval: 14
+sr-ease: 250
 ---
 #首刷 #review 
+> **12種中藥材**
 ### 1.概念
 - 富含多醣與皂苷，適合補氣（固氮能力強 → 滋養土壤 = 滋養人體）。
 - 主要成分：
@@ -25,11 +30,11 @@ Abstract: 中藥詞卡
 - **-aceae**（植物科名標準後綴）  
 
 - **Leguminosae（舊稱，來自拉丁文）**  
-  - **Legumin-**（來自 *legumen*，意為「豆莢」）  
+  - **Legumin-**（來自 *legumen*，意為「==豆莢==」）  
     - **Legume**（豆類）：泛指所有豆科植物的種子或果實。  
     - **Leguminous**（豆科的）：形容詞形式，指屬於豆科的植物。  
   - **-osae**（植物科名後綴）  
-    - 舊式拉丁植物分類法的科名結尾，已被 *-aceae* 取代，但仍被用作同義名。
+    - 舊式拉丁植物分類法的科名結尾，已被 *-aceae* 取代，但仍被用作同義名。 <!--SR:!2025-04-20,14,290-->
 
 **完整結構：**
 
@@ -40,30 +45,19 @@ Abstract: 中藥詞卡
 
 #### 📌 相關藥材連結
 
-- 黃耆（Astragalus）
-- 甘草（Glycyrrhiza）
-- 白扁豆（Lablab purpureus）
-
-
-#### 🌿 現代英文關聯
-
+- [[黃耆]]（Astragalus）
+- [[甘草]]（Glycyrrhiza）
+- [[白扁豆]]（Lablab purpureus）
+- [[葛根]]
 
 
 
 ### 3.豆科（Fabaceae，舊稱 Leguminosae） 相關知識點
 
-
-
-### 4.豆科（Fabaceae，舊稱 Leguminosae） 相關詞
-#### (1) 植物學相關詞
 - Legume（豆類） → 來自拉丁文 legumen（豆莢）。
 - Rhizobium（根瘤菌） → Rhizo-（根）+ -bium（微生物），指能與豆科共生的固氮細菌。
-- Vicia（野豌豆屬） → 含豐富蛋白質與多醣。
-
-
-
-#### (2) 藥用植物相關詞
 - Astragaloside（黃耆皂苷） → Astragalus（黃耆）+ -side（糖苷後綴），具有免疫調節作用。
 - Glycyrrhizin（甘草酸） → Glycyrrhiza（甘草）+ -in（化學後綴），具抗炎、保護肝臟功能。
 - Puerarin（葛根素） → Pueraria（葛根）+ -in（化合物後綴），能促進血液循環。
+
 

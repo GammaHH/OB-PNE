@@ -2,10 +2,10 @@
 title: Fondaparinux
 category: Pentasaccaride
 tags:
-  - 藥理學
+  - 藥理藥化
   - Pentasaccaride
 created: 2025-02-25
-updated: 2025-02-27 17:04
+updated: 2025-04-01 20:11
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
@@ -17,6 +17,8 @@ Abstract: 藥物個論
   > [!error]- 一句話機轉
   > - 和Antithrombin III協同作用，並==只抑制Xa==
 
+### 結構
+![[Pasted image 20250331214551.png]]
 
 ## 🔹 2. 相關口訣
 > [!tip] 口訣

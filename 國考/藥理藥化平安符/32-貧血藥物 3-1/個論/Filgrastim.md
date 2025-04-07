@@ -2,30 +2,32 @@
 title: Filgrastim
 category: 貧血治療劑
 tags:
-  - 藥理學
+  - 藥理藥化
   - 貧血治療劑
 created: 2025-03-01
-updated: 2025-03-24 22:50
+updated: 2025-04-01 20:11
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
-sr-due: 2025-03-28
-sr-interval: 4
+sr-due: 2025-04-08
+sr-interval: 11
 sr-ease: 270
 ---
-#review 
+#review
+
 ## 🔹 1. 基本資訊
 - **藥名（Drug Name）**：Filgrastim
 - **分類（Category）**：貧血治療劑
 - **MOA（Mechanism of Action）**：
 ?
 > [!ERROR] 一句話MOA
-> - 即白血球生長激素 <!--SR:!2025-03-25,1,230-->
+> - 即**G-CSF**白血球生長激素 <!--SR:!2025-03-31,3,250-->
 
-## 🔹 2. 相關字尾/口訣
+## 🔹 2. 相關字尾/口訣(2)
 ?
 > [!tip]- 口訣
-> - -stim 子尾 可能是某種生成素 <!--SR:!2025-03-28,4,270-->
+> - -stim 子尾 可能是某種生成素 
+> - -Filg 會讓人想到抗血栓類，但他其實不是 <!--SR:!2025-04-08,11,270-->
 
 ## 🔹 3. 特色
 #### 🧪 藥理（Pharmacology）

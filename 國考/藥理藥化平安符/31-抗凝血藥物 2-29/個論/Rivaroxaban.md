@@ -2,16 +2,16 @@
 title: Rivaroxaban
 category: 直接Xa抑制劑
 tags:
-  - 藥理學
+  - 藥理藥化
   - 直接Xa抑制劑
 created: 2025-02-25
-updated: 2025-03-24 23:02
+updated: 2025-04-01 20:11
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
-sr-due: 2025-03-27
-sr-interval: 3
-sr-ease: 250
+sr-due: 2025-04-09
+sr-interval: 13
+sr-ease: 270
 ---
 #review #GEN3
 ## 🔹 1. 基本資訊
@@ -30,11 +30,11 @@ sr-ease: 250
 ## 🔹 3. 特色
 ### 🧪 藥理（Pharmacology）
 
-- 解毒劑為 Andexanet alfa
+- 解毒劑為:: Andexanet alfa
 
 ### 🧬 藥化（Medicinal Chemistry）
 
-- NOACs 代表藥物有 Dabigatran、Rivaroxaban、Apixaban、Edoxaban
+- NOACs 代表藥物有(4):: [[Dabigatran]]、Rivaroxaban、Apixaban、Edoxaban
 
 ### ⚡副作用（Adverse Effects）
 - 不知
@@ -44,4 +44,4 @@ sr-ease: 250
  - 不重要
 ## 🔹 5. 比較、連結
 
-
+[[怠辦連結]]

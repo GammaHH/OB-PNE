@@ -2,10 +2,10 @@
 title: Dipyridamole
 category: PDE3抑制劑
 tags:
-  - 藥理學
+  - 藥理藥化
   - PDE3抑制劑
 created: 2025-02-25
-updated: 2025-03-24 11:46
+updated: 2025-04-01 20:11
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論

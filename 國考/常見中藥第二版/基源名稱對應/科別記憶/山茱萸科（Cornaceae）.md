@@ -3,10 +3,13 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-24 11:34
+updated: 2025-04-01 00:00
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
+sr-due: 2025-04-14
+sr-interval: 13
+sr-ease: 250
 ---
 #首刷 #review 
 ### 1.概念

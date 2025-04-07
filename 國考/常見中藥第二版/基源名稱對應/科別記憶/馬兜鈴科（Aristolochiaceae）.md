@@ -4,12 +4,16 @@ tags:
   - 中藥詞卡
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-24 11:40
+updated: 2025-04-06 22:25
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
+sr-due: 2025-04-26
+sr-interval: 20
+sr-ease: 270
 ---
 #首刷 #review 
+>一種中藥材
 ### 1.概念
 - **馬兜鈴科（Aristolochiaceae）** 是一類**主要由草本、藤本或灌木組成的雙子葉開花植物科**，其中許多成員具有**芳香化合物與馬兜鈴酸（Aristolochic acids）**，應用於**中藥、傳統醫學與園藝**，但部分成員因含有**腎毒性與致癌風險**而受到限制。代表植物包括 **馬兜鈴（Aristolochia debilis）、關木通（Aristolochia manshuriensis）、青木香（Aristolochia contorta）、細辛（Asarum spp.）**。  
 - **主要藥用特性（部分受限）：**  
@@ -38,15 +42,6 @@ Abstract: 中藥詞卡
 
 
 ### 3.馬兜鈴科（Aristolochiaceae） 相關知識點
+- **Aristolochi-**（來自希臘文 *ἄριστος*（áristos）「==最佳==」+ *λοχεία*（lokheía）「==分娩==」）  
+  - **Aristolochia**（馬兜鈴屬）：代表馬兜鈴科的模式屬，如 **Aristolochia debilis（馬兜鈴）**，以其傳統上被用於**幫助分娩**而得名。 <!--SR:!2025-04-09,3,270!2025-04-10,4,290-->  
 
-
-
-### 4.馬兜鈴科（Aristolochiaceae） 相關詞
-#### (1) 植物學相關詞-參考
-
-
-
-
-#### (2) 藥用植物相關詞
-
-\

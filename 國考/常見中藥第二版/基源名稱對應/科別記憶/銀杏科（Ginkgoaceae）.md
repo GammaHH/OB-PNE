@@ -3,13 +3,13 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-21
-updated: 2025-03-23 19:08
+updated: 2025-03-26 22:53
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
-sr-due: 2025-03-26
-sr-interval: 3
-sr-ease: 250
+sr-due: 2025-04-05
+sr-interval: 10
+sr-ease: 270
 ---
 #首刷 #review
 ### 1.概念
@@ -43,8 +43,8 @@ sr-ease: 250
 ### 4.閃卡區
 
 
-- 銀杏科::Ginkgoaceae
+- 銀杏科::Ginkgoaceae <!--SR:!2025-03-29,3,250-->
 
-- **Ging**（ぎん）::銀
+- **Ging**（ぎん）::銀 <!--SR:!2025-03-30,4,270-->
 
-- **Kyo**（きょう）::杏
+- **Kyo**（きょう）::杏 <!--SR:!2025-03-30,4,270-->

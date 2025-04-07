@@ -4,13 +4,14 @@ tags:
   - 中藥詞卡
   - 辛溫解表
   - 尚未考過
+  - 百合科
 created: 2025-03-22
-updated: 2025-03-23 22:01
+updated: 2025-04-06 23:10
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
-sr-due: 2025-03-26
-sr-interval: 3
+sr-due: 2025-04-27
+sr-interval: 21
 sr-ease: 250
 ---
 #review
@@ -55,11 +56,75 @@ sr-ease: 250
 
 
 
+```dataviewjs
+const excludeTags = ["中藥詞卡","中藥生藥學"];
+const currentTags = dv.current().tags?.filter(t => !excludeTags.includes(t)) ?? [];
+
+let allCandidates = dv.pages()
+  .where(p => p.tags && p.file.name !== dv.current().file.name);
+
+// 先分出 multi 和 single
+let multiMatch = [];
+let singleMatch = [];
+
+for (let p of allCandidates) {
+  const matchCount = currentTags.reduce((acc, tag) => acc + (p.tags.includes(tag) ? 1 : 0), 0);
+  if (matchCount >= 2) {
+    multiMatch.push(p);
+  } else if (matchCount === 1) {
+    singleMatch.push(p);
+  }
+}
+
+// 建立 singleMatch 的分類 group
+let singleGroups = {};
+for (let p of singleMatch) {
+  let matchedTag = currentTags.find(tag => p.tags.includes(tag));
+  if (matchedTag) {
+    if (!singleGroups[matchedTag]) singleGroups[matchedTag] = [];
+    singleGroups[matchedTag].push(p);
+  }
+}
+
+// 合併總筆數（無重複）
+let multiPaths = new Set(multiMatch.map(p => p.file.path));
+let totalUnique = new Set([...multiMatch, ...singleMatch].map(p => p.file.path)).size;
+
+dv.header(5, `相關藥物（共 ${totalUnique} 筆）`);
+
+if (multiMatch.length > 0) {
+  dv.header(6, `▸ ${currentTags.join("、")}（${multiMatch.length}）`);
+  dv.list(
+    multiMatch.map(p => {
+      const tagsToShow = p.tags.filter(t => !excludeTags.includes(t));
+      return `${p.file.link}　${tagsToShow.join("、")}`;
+    })
+  );
+}
+
+// 顯示單一標籤命中分類後的筆記
+for (let [tag, pages] of Object.entries(singleGroups)) {
+  dv.header(6, `▸ ${tag}（${pages.length}）`);
+  dv.list(
+    pages.map(p => {
+      const tagsToShow = p.tags.filter(t => !excludeTags.includes(t) && t !== tag);
+      return `${p.file.link}　${tagsToShow.join("、")}`;
+    })
+  );
+}
+if (multiMatch.length === 0 && Object.keys(singleGroups).length === 0) {
+
+  dv.paragraph("沒有找到與本藥材具有相同標籤的其他筆記。");
+}
+
+```
+
+
 
 
 ### 3.蔥白 相關知識點
 - **藥材名稱**：蔥白（Allium fistulosum L.）
-- **科別**：百合科（Liliaceae）
+- **科別**：[[百合科（Liliaceae）]]
 - **用部**：鱗莖
 - **活性成分**：
   - **有機硫化物（Organosulfur compounds）**：
@@ -70,6 +135,9 @@ sr-ease: 250
 
 ### 4.閃卡區
 
+- 蔥白(Allii Fistulosi Bulbus)基源:::
+- 所屬科別::百合科（Liliaceae）
+- 用部::鱗莖
 
 - Allicin(2) ::蔥白、大蒜 <!--SR:!2025-03-27,4,270-->
 - Allicin分解成::(E)-ajoene、(Z)-ajoene (生成量Z>E) <!--SR:!2025-03-27,4,270-->

@@ -4,13 +4,13 @@ tags:
   - 中藥詞卡
   - 中藥科別
 created: 2025-03-21
-updated: 2025-03-24 23:01
+updated: 2025-03-27 09:31
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
-sr-due: 2025-03-27
-sr-interval: 4
-sr-ease: 270
+sr-due: 2025-04-11
+sr-interval: 15
+sr-ease: 290
 ---
 #首刷 #review
 ### 1.概念

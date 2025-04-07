@@ -2,11 +2,11 @@
 title: Aprotinin
 category: 止血劑
 tags:
-  - 藥理學
+  - 藥理藥化
   - 止血劑
   - Serine-protease抑制劑
 created: 2025-02-26
-updated: 2025-03-24 11:44
+updated: 2025-04-01 20:11
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
@@ -18,6 +18,8 @@ Abstract: 藥物個論
 - **MOA（Mechanism of Action）**：
 > [!ERROR] 一句話MOA
 > - 抑制 Plasmin 的作用，作為止血劑
+
+
 
 ## 🔹 2. 相關口訣
 > [!tip] 口訣

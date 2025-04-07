@@ -3,10 +3,13 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-24 11:39
+updated: 2025-03-31 23:59
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
+sr-due: 2025-04-10
+sr-interval: 10
+sr-ease: 250
 ---
 #首刷 #review 
 ### 1.概念
@@ -34,14 +37,8 @@ Abstract: 中藥詞卡
 
 
 ### 3.芸香科（Rutaceae） 相關知識點
+- 易與:: [[茜草科（Rubiaceae）]] 搞混，需分清楚
+- 嚕他阿謝
 
 
-
-### 4.芸香科（Rutaceae） 相關詞
-#### (1) 植物學相關詞-參考
-
-
-
-
-#### (2) 藥用植物相關詞
 

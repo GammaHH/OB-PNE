@@ -2,18 +2,19 @@
 category: 中藥生藥學
 tags:
   - 中藥科別
+  - 麻黃科
 created: 2025-03-21
-updated: 2025-03-23 19:05
+updated: 2025-04-06 21:36
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
-sr-due: 2025-03-25
-sr-interval: 2
-sr-ease: 230
+sr-due: 2025-04-29
+sr-interval: 23
+sr-ease: 250
 ---
 #首刷 #review
+> 一種中藥材
 ### 1. 概念
-
 - **麻黃科（Ephedraceae）** 是一類**主要由灌木或亞灌木組成的裸子植物科**，其成員多數含有**生物鹼**，具有**藥用價值**，廣泛應用於**中藥**。代表植物包括 **草麻黃（Ephedra sinica）、木賊麻黃（Ephedra equisetina）、中麻黃（Ephedra intermedia）**。 
 
 - **主要藥用特性：**  
@@ -38,7 +39,38 @@ sr-ease: 230
 #### 📌 相關藥材連結
 
 
+```dataviewjs
+// ---------- 標籤推薦區塊（以列表呈現） ----------
+const excludeTags = ["中藥科別"];
+const currentTags = dv.current().tags?.filter(t => !excludeTags.includes(t)) ?? [];
 
+let tagMatches = dv.pages()
+  .where(p => p.tags && p.file.name !== dv.current().file.name)
+  .filter(p => p.tags.some(tag => currentTags.includes(tag)));
+
+let tagGroups = {};
+
+for (let tag of currentTags) {
+  tagGroups[tag] = tagMatches.filter(p => p.tags.includes(tag));
+}
+
+let totalMatched = Object.values(tagGroups).reduce((acc, pages) => acc + pages.length, 0);
+
+if (totalMatched > 0) {
+  dv.header(5, `相關藥物（共 ${totalMatched} 筆）`);
+  for (let [tag, pages] of Object.entries(tagGroups)) {
+    if (pages.length > 0) {
+      dv.header(6, `▸ ${tag}（${pages.length}）`);
+      dv.list(
+        pages.map(p => p.file.link)
+      );
+    }
+  }
+} else {
+  dv.header(5, "相關藥物（0）");
+  dv.paragraph("沒有找到與本藥物具有相同標籤的其他筆記。");
+}
+````
 
 ### 3.麻黃科（Ephedraceae） 相關知識點
 

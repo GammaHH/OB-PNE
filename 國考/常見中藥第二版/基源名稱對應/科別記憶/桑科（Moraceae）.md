@@ -1,15 +1,19 @@
 ---
 category: 中藥生藥學
 tags:
-  - 中藥詞卡
   - 中藥科別
+  - 桑科
 created: 2025-03-20
-updated: 2025-03-24 11:35
+updated: 2025-04-07 10:14
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
+sr-due: 2025-04-14
+sr-interval: 7
+sr-ease: 210
 ---
 #首刷 #review 
+> 三種中藥材
 ### 1.概念
 - **桑科（Moraceae）** 是一類**主要為喬木、灌木或藤本植物**的開花植物，包含許多**藥用、食用與工業價值**的種類，如 **桑樹（Morus alba）、無花果（Ficus carica）、構樹（Broussonetia papyrifera）**。  
 - **主要藥用特性：**  
@@ -33,17 +37,80 @@ Abstract: 中藥詞卡
 #### 📌 相關藥材連結
 
 
+```dataviewjs
+const excludeTags = ["中藥科別","中藥生藥學"];
+const currentTags = dv.current().tags?.filter(t => !excludeTags.includes(t)) ?? [];
+
+let allCandidates = dv.pages()
+  .where(p => p.file?.path?.startsWith("國考/") && p.tags && p.file.name !== dv.current().file.name);
+
+
+// 先分出 multi 和 single
+let multiMatch = [];
+let singleMatch = [];
+
+for (let p of allCandidates) {
+  const matchCount = currentTags.reduce((acc, tag) => acc + (p.tags.includes(tag) ? 1 : 0), 0);
+  if (matchCount >= 2) {
+    multiMatch.push(p);
+  } else if (matchCount === 1) {
+    singleMatch.push(p);
+  }
+}
+
+// 建立 singleMatch 的分類 group
+let singleGroups = {};
+for (let p of singleMatch) {
+  let matchedTag = currentTags.find(tag => p.tags.includes(tag));
+  if (matchedTag) {
+    if (!singleGroups[matchedTag]) singleGroups[matchedTag] = [];
+    singleGroups[matchedTag].push(p);
+  }
+}
+
+// 合併總筆數（無重複）
+let multiPaths = new Set(multiMatch.map(p => p.file.path));
+let totalUnique = new Set([...multiMatch, ...singleMatch].map(p => p.file.path)).size;
+
+dv.header(5, `相關藥物（共 ${totalUnique} 筆）`);
+
+if (multiMatch.length > 0) {
+  dv.header(6, `▸ ${currentTags.join("、")}（${multiMatch.length}）`);
+  dv.list(
+    multiMatch.map(p => {
+      const tagsToShow = p.tags.filter(t => !excludeTags.includes(t));
+      return `${p.file.link}　${tagsToShow.join("、")}`;
+    })
+  );
+}
+
+// 顯示單一標籤命中分類後的筆記
+for (let [tag, pages] of Object.entries(singleGroups)) {
+  dv.header(6, `▸ ${tag}（${pages.length}）`);
+  dv.list(
+    pages.map(p => {
+      const tagsToShow = p.tags.filter(t => !excludeTags.includes(t) && t !== tag);
+      return `${p.file.link}　${tagsToShow.join("、")}`;
+    })
+  );
+}
+if (multiMatch.length === 0 && Object.keys(singleGroups).length === 0) {
+
+  dv.paragraph("沒有找到與本藥材具有相同標籤的其他筆記。");
+}
+
+```
+
+
 
 
 ### 3.桑科（Moraceae） 相關知識點
 
+- **Mora-**（來自拉丁文 *morus*，意為「==桑樹==」） <!--SR:!2025-04-10,3,230-->  
+
+- **Morus**（桑屬）：代表桑科的模式屬，如 **Morus alba（白桑）**，以其葉可餵養蠶，果實可食或入藥。  
+- **Mulberry**（英語「桑樹」）：來自拉丁文 *morus*，經古英語 *morberie* 演變而來。  
 
 
-### 4.桑科（Moraceae） 相關詞
-#### (1) 植物學相關詞-參考
 
-
-
-
-#### (2) 藥用植物相關詞
 

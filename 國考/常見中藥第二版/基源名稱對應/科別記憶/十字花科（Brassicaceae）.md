@@ -2,14 +2,20 @@
 category: 中藥生藥學
 tags:
   - 中藥科別
+  - 十字花科
 created: 2025-03-20
-updated: 2025-03-24 11:34
+updated: 2025-04-06 21:26
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
+sr-due: 2025-04-23
+sr-interval: 17
+sr-ease: 270
 ---
 #首刷 #review 
+> 兩種藥材
 ### 1.概念
+
 - **十字花科（Brassicaceae）** 是一類**主要由草本植物組成的雙子葉開花植物科**，以**富含芥子油苷（Glucosinolates）與辛辣風味**著稱，廣泛應用於**藥用、食用與農業**。代表植物包括 **白芥（Brassica alba）、大蒜芥（Alliaria petiolata）、芥菜（Brassica juncea）、蘿蔔（Raphanus sativus）、油菜（Brassica napus）**。  
 - **主要藥用特性：**  
   - **行氣散結**：如 **芥菜（Brassica juncea）**，富含**芥子油苷與揮發油**，可**行氣散結、祛痰止咳**，適用於風寒咳嗽、痰濕阻滯。  
@@ -32,15 +38,40 @@ Abstract: 中藥詞卡
 
 
 
+```dataviewjs
+// ---------- 標籤推薦區塊（以列表呈現） ----------
+const excludeTags = ["中藥科別"];
+const currentTags = dv.current().tags?.filter(t => !excludeTags.includes(t)) ?? [];
+
+let tagMatches = dv.pages()
+  .where(p => p.tags && p.file.name !== dv.current().file.name)
+  .filter(p => p.tags.some(tag => currentTags.includes(tag)));
+
+let tagGroups = {};
+
+for (let tag of currentTags) {
+  tagGroups[tag] = tagMatches.filter(p => p.tags.includes(tag));
+}
+
+let totalMatched = Object.values(tagGroups).reduce((acc, pages) => acc + pages.length, 0);
+
+if (totalMatched > 0) {
+  dv.header(5, `相關藥物（共 ${totalMatched} 筆）`);
+  for (let [tag, pages] of Object.entries(tagGroups)) {
+    if (pages.length > 0) {
+      dv.header(6, `▸ ${tag}（${pages.length}）`);
+      dv.list(
+        pages.map(p => p.file.link)
+      );
+    }
+  }
+} else {
+  dv.header(5, "相關藥物（0）");
+  dv.paragraph("沒有找到與本藥物具有相同標籤的其他筆記。");
+}
+````
+
 ### 3.十字花科（Brassicaceae） 相關知識點
 
 
-
-### 4.十字花科（Brassicaceae） 相關詞
-#### (1) 植物學相關詞-參考
-
-
-
-
-#### (2) 藥用植物相關詞
 

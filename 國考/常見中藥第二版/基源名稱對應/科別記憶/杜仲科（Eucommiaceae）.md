@@ -2,13 +2,18 @@
 category: 中藥生藥學
 tags:
   - 中藥科別
+  - 杜仲科
 created: 2025-03-20
-updated: 2025-03-24 11:35
+updated: 2025-04-07 10:15
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
+sr-due: 2025-04-15
+sr-interval: 8
+sr-ease: 210
 ---
 #首刷 #review 
+>一種中藥材
 ### 1.概念
 - **杜仲科（Eucommiaceae）** 是**單屬科植物**，僅包含 **杜仲（Eucommia ulmoides）** 一種，為**中國特有的落葉喬木**，以**補腎強筋骨、降血壓、促進膠原蛋白合成**著稱，廣泛應用於**中藥、保健食品與橡膠工業**。  
 - **主要藥用特性：**  
@@ -33,34 +38,76 @@ Abstract: 中藥詞卡
 #### 📌 相關藥材連結
 
 
+```dataviewjs
+const excludeTags = ["中藥科別","中藥生藥學"];
+const currentTags = dv.current().tags?.filter(t => !excludeTags.includes(t)) ?? [];
 
-### **1. 概念**  
-
-
----
-
-### **2. 詞素拆解**  
-
-
----
-
-### **3. 完整結構**  
+let allCandidates = dv.pages()
+  .where(p => p.file?.path?.startsWith("國考/") && p.tags && p.file.name !== dv.current().file.name);
 
 
----
+// 先分出 multi 和 single
+let multiMatch = [];
+let singleMatch = [];
 
-這樣的整理方式是否符合你的需求？如果有其他詞素需要補充，請告訴我！😊
+for (let p of allCandidates) {
+  const matchCount = currentTags.reduce((acc, tag) => acc + (p.tags.includes(tag) ? 1 : 0), 0);
+  if (matchCount >= 2) {
+    multiMatch.push(p);
+  } else if (matchCount === 1) {
+    singleMatch.push(p);
+  }
+}
+
+// 建立 singleMatch 的分類 group
+let singleGroups = {};
+for (let p of singleMatch) {
+  let matchedTag = currentTags.find(tag => p.tags.includes(tag));
+  if (matchedTag) {
+    if (!singleGroups[matchedTag]) singleGroups[matchedTag] = [];
+    singleGroups[matchedTag].push(p);
+  }
+}
+
+// 合併總筆數（無重複）
+let multiPaths = new Set(multiMatch.map(p => p.file.path));
+let totalUnique = new Set([...multiMatch, ...singleMatch].map(p => p.file.path)).size;
+
+dv.header(5, `相關藥物（共 ${totalUnique} 筆）`);
+
+if (multiMatch.length > 0) {
+  dv.header(6, `▸ ${currentTags.join("、")}（${multiMatch.length}）`);
+  dv.list(
+    multiMatch.map(p => {
+      const tagsToShow = p.tags.filter(t => !excludeTags.includes(t));
+      return `${p.file.link}　${tagsToShow.join("、")}`;
+    })
+  );
+}
+
+// 顯示單一標籤命中分類後的筆記
+for (let [tag, pages] of Object.entries(singleGroups)) {
+  dv.header(6, `▸ ${tag}（${pages.length}）`);
+  dv.list(
+    pages.map(p => {
+      const tagsToShow = p.tags.filter(t => !excludeTags.includes(t) && t !== tag);
+      return `${p.file.link}　${tagsToShow.join("、")}`;
+    })
+  );
+}
+if (multiMatch.length === 0 && Object.keys(singleGroups).length === 0) {
+
+  dv.paragraph("沒有找到與本藥材具有相同標籤的其他筆記。");
+}
+
+```
+
+
 
 
 ### 3.杜仲科（Eucommiaceae） 相關知識點
 
+- **Eu-**：來自希臘文 *εὖ*（eu），意為「==良好、優秀==」，表示該植物的藥用價值。 <!--SR:!2025-04-10,3,230-->  
 
-
-### 4.杜仲科（Eucommiaceae） 相關詞
-#### (1) 植物學相關詞-參考
-
-
-
-
-#### (2) 藥用植物相關詞
+- **Commi-**：來自希臘文 *κόμμι*（kommi），意為「==樹膠、橡膠==」，形容該植物含有獨特的彈性樹脂。 <!--SR:!2025-04-10,3,230-->
 

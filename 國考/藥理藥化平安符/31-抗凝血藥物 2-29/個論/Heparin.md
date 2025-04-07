@@ -2,11 +2,11 @@
 title: Heparin
 category: 抗凝血
 tags:
-  - 藥理學
+  - 藥理藥化
   - 抗凝血
   - 未分割的heparin
 created: 2025-02-25
-updated: 2025-03-18 20:04
+updated: 2025-04-01 20:11
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
@@ -18,6 +18,10 @@ Abstract: 藥物個論
   > [!error]- 一句話機轉
   > 與 At-3(Antithrombin III) 結合(間接作用) 並抑制 Xa、IIa
 - Unfractionated Heparin 又稱為大肝素
+
+### 結構
+![[Pasted image 20250331214611.png]]
+
 
 ## 🔹 2. 相關口訣
 > [!tip] 口訣

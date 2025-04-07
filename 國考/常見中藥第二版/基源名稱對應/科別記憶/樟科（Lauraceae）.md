@@ -3,10 +3,13 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-03-24 11:36
+updated: 2025-04-06 22:30
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
+sr-due: 2025-04-24
+sr-interval: 18
+sr-ease: 270
 ---
 #首刷 #review 
 ### 1.概念
@@ -34,15 +37,43 @@ Abstract: 中藥詞卡
 
 
 
+```dataviewjs
+const excludeTags = ["中藥科別","中藥生藥學"];
+const currentTags = dv.current().tags?.filter(t => !excludeTags.includes(t)) ?? [];
+
+let tagMatches = dv.pages()
+  .where(p => p.tags && p.file.name !== dv.current().file.name)
+  .filter(p => p.tags.some(tag => currentTags.includes(tag)));
+
+let tagGroups = {};
+for (let tag of currentTags) {
+  tagGroups[tag] = tagMatches.filter(p => p.tags.includes(tag));
+}
+
+let totalMatched = Object.values(tagGroups).reduce((acc, pages) => acc + pages.length, 0);
+
+if (totalMatched > 0) {
+  dv.header(5, `相關藥物（共 ${totalMatched} 筆）`);
+  for (let [tag, pages] of Object.entries(tagGroups)) {
+    if (pages.length > 0) {
+      dv.header(6, `▸ ${tag}（${pages.length}）`);
+      dv.list(
+        pages.map(p => {
+          const tagsToShow = p.tags?.filter(t => !excludeTags.includes(t) && t !== tag) ?? [];
+          return `${p.file.link}　${tagsToShow.join("、")}`;
+        })
+      );
+    }
+  }
+} else {
+  dv.header(5, "相關藥物（0）");
+  dv.paragraph("沒有找到與本藥材具有相同標籤的其他筆記。");
+}
+```
+
+
+
+
 ### 3.樟科（Lauraceae） 相關知識點
 
-
-
-### 4.樟科（Lauraceae） 相關詞
-#### (1) 植物學相關詞-參考
-
-
-
-
-#### (2) 藥用植物相關詞
 

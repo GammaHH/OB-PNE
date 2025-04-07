@@ -2,13 +2,19 @@
 category: 中藥生藥學
 tags:
   - 中藥科別
+  - 薔薇科
 created: 2025-03-20
-updated: 2025-03-24 11:39
+updated: 2025-04-06 20:38
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
+sr-due: 2025-04-26
+sr-interval: 20
+sr-ease: 270
 ---
 #首刷 #review 
+> 五種藥材
+
 ### 1.概念
 - **薔薇科（Rosaceae）** 是一類廣泛分布的**木本與草本植物**，包含許多**水果類、藥用與觀賞植物**，如 **玫瑰（Rosa spp.）、山楂（Crataegus pinnatifida）、桃（Prunus persica）、枇杷（Eriobotrya japonica）** 等。  
 - **主要藥用特性：**  
@@ -33,15 +39,43 @@ Abstract: 中藥詞卡
 #### 📌 相關藥材連結
 
 
+
+```dataviewjs
+// ---------- 標籤推薦區塊（以列表呈現） ----------
+const excludeTags = ["中藥科別"];
+const currentTags = dv.current().tags?.filter(t => !excludeTags.includes(t)) ?? [];
+
+let tagMatches = dv.pages()
+  .where(p => p.tags && p.file.name !== dv.current().file.name)
+  .filter(p => p.tags.some(tag => currentTags.includes(tag)));
+
+let tagGroups = {};
+
+for (let tag of currentTags) {
+  tagGroups[tag] = tagMatches.filter(p => p.tags.includes(tag));
+}
+
+let totalMatched = Object.values(tagGroups).reduce((acc, pages) => acc + pages.length, 0);
+
+if (totalMatched > 0) {
+  dv.header(5, `相關藥物（共 ${totalMatched} 筆）`);
+  for (let [tag, pages] of Object.entries(tagGroups)) {
+    if (pages.length > 0) {
+      dv.header(6, `▸ ${tag}（${pages.length}）`);
+      dv.list(
+        pages.map(p => p.file.link)
+      );
+    }
+  }
+} else {
+  dv.header(5, "相關藥物（0）");
+  dv.paragraph("沒有找到與本藥物具有相同標籤的其他筆記。");
+}
+````
+
+
 ### 3.薔薇科（Rosaceae） 相關知識點
 
 
 
-### 4.薔薇科（Rosaceae） 相關詞
-#### (1) 植物學相關詞-參考
-
-
-
-
-#### (2) 藥用植物相關詞
 

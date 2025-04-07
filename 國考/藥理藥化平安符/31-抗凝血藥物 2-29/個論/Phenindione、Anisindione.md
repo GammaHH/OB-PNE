@@ -1,11 +1,11 @@
 ---
 title: Phenindione、Anisindione
-category: 口服抗凝血劑
+category: 抗凝血
 tags:
-  - 藥理學
+  - 藥理藥化
   - 口服抗凝血劑
 created: 2025-02-25
-updated: 2025-03-24 11:45
+updated: 2025-04-01 20:11
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
@@ -18,6 +18,14 @@ Abstract: 藥物個論
 > [!ERROR] 一句話MOA
 > - 無
 
+
+### 結構
+- Phenindione
+![[Pasted image 20250331214747.png]]
+
+- Anisindione
+![[Pasted image 20250331214753.png]]
+
 ## 🔹 2. 相關口訣
 > [!tip] 口訣
 > - `Indione`> Indanedione
@@ -25,7 +33,7 @@ Abstract: 藥物個論
 ## 🔹 3. 特色
 ### 🧪 藥理（Pharmacology）
 
-- 口服抗凝血劑
+- 口服抗凝血劑 NOACs
 
 ### 🧬 藥化（Medicinal Chemistry）
 

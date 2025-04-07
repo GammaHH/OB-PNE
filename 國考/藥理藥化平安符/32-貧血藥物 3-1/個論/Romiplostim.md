@@ -2,15 +2,16 @@
 title: Romiplostim
 category: 貧血治療劑
 tags:
-  - 藥理學
+  - 藥理藥化
   - 貧血治療劑
+  - TPO
 created: 2025-03-01
-updated: 2025-03-24 22:28
+updated: 2025-04-07 10:32
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
-sr-due: 2025-03-27
-sr-interval: 3
+sr-due: 2025-04-05
+sr-interval: 9
 sr-ease: 250
 ---
 #review 
@@ -51,8 +52,8 @@ sr-ease: 250
 
 ##### 同類藥物(1)
 ?
-- [[Eltrombopag]] <!--SR:!2025-03-25,1,230-->
+- [[Eltrombopag]] <!--SR:!2025-03-29,2,230-->
 
 ##### 類似藥物(1)
 ?
-- [[Oprelvekin]] <!--SR:!2025-03-25,1,230-->
+- [[Oprelvekin]] <!--SR:!2025-03-29,2,230-->

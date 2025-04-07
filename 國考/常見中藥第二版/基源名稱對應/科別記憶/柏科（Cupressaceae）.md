@@ -2,13 +2,18 @@
 category: 中藥生藥學
 tags:
   - 中藥科別
+  - 柏科
 created: 2025-03-20
-updated: 2025-03-24 11:35
+updated: 2025-04-07 10:18
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
+sr-due: 2025-04-16
+sr-interval: 9
+sr-ease: 210
 ---
 #首刷 #review 
+>兩種中藥材
 ### 1.概念
 - **柏科（Cupressaceae）** 主要為**常綠喬木或灌木**，廣泛分布於全球溫帶地區，許多種類**富含揮發油與抗菌成分**，具有**藥用、園藝與木材價值**，如 **側柏（Platycladus orientalis）、圓柏（Juniperus spp.）、紅杉（Sequoia sempervirens）**。  
 - **主要藥用特性：**  
@@ -31,17 +36,73 @@ Abstract: 中藥詞卡
 
 #### 📌 相關藥材連結
 
+```dataviewjs
+const excludeTags = ["中藥科別","中藥生藥學"];
+const currentTags = dv.current().tags?.filter(t => !excludeTags.includes(t)) ?? [];
+
+let allCandidates = dv.pages()
+  .where(p => p.file?.path?.startsWith("國考/") && p.tags && p.file.name !== dv.current().file.name);
+
+
+// 先分出 multi 和 single
+let multiMatch = [];
+let singleMatch = [];
+
+for (let p of allCandidates) {
+  const matchCount = currentTags.reduce((acc, tag) => acc + (p.tags.includes(tag) ? 1 : 0), 0);
+  if (matchCount >= 2) {
+    multiMatch.push(p);
+  } else if (matchCount === 1) {
+    singleMatch.push(p);
+  }
+}
+
+// 建立 singleMatch 的分類 group
+let singleGroups = {};
+for (let p of singleMatch) {
+  let matchedTag = currentTags.find(tag => p.tags.includes(tag));
+  if (matchedTag) {
+    if (!singleGroups[matchedTag]) singleGroups[matchedTag] = [];
+    singleGroups[matchedTag].push(p);
+  }
+}
+
+// 合併總筆數（無重複）
+let multiPaths = new Set(multiMatch.map(p => p.file.path));
+let totalUnique = new Set([...multiMatch, ...singleMatch].map(p => p.file.path)).size;
+
+dv.header(5, `相關藥物（共 ${totalUnique} 筆）`);
+
+if (multiMatch.length > 0) {
+  dv.header(6, `▸ ${currentTags.join("、")}（${multiMatch.length}）`);
+  dv.list(
+    multiMatch.map(p => {
+      const tagsToShow = p.tags.filter(t => !excludeTags.includes(t));
+      return `${p.file.link}　${tagsToShow.join("、")}`;
+    })
+  );
+}
+
+// 顯示單一標籤命中分類後的筆記
+for (let [tag, pages] of Object.entries(singleGroups)) {
+  dv.header(6, `▸ ${tag}（${pages.length}）`);
+  dv.list(
+    pages.map(p => {
+      const tagsToShow = p.tags.filter(t => !excludeTags.includes(t) && t !== tag);
+      return `${p.file.link}　${tagsToShow.join("、")}`;
+    })
+  );
+}
+if (multiMatch.length === 0 && Object.keys(singleGroups).length === 0) {
+
+  dv.paragraph("沒有找到與本藥材具有相同標籤的其他筆記。");
+}
+
+```
 
 
 ### 3.柏科（Cupressaceae） 相關知識點
 
+-  **Cypress**（英語「==柏樹==」）：直接來自拉丁文 *cupressus*，經古法語 *cipres* 演變而來。 <!--SR:!2025-04-10,3,230-->  
 
-
-### 4.柏科（Cupressaceae） 相關詞
-#### (1) 植物學相關詞-參考
-
-
-
-
-#### (2) 藥用植物相關詞
 

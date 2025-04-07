@@ -2,16 +2,19 @@
 category: 中藥生藥學
 tags:
   - 中藥科別
+  - 木通科
 created: 2025-03-21
-updated: 2025-03-24 22:07
+updated: 2025-04-07 12:47
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
-sr-due: 2025-03-27
-sr-interval: 3
+sr-due: 2025-04-30
+sr-interval: 23
 sr-ease: 250
 ---
 #首刷 #review
+
+> 一種中藥材
 ### 1.概念
 Lar-di-za-ba-la-ceae
 - **木通科（Lardizabalaceae）** 是一類**主要由木質藤本或灌木組成的雙子葉植物科**，大多數物種分布於**東亞（特別是中國、日本、韓國）與南美的溫帶至亞熱帶地區**。  
@@ -40,6 +43,71 @@ Lar-di-za-ba-la-ceae
 #### 📌 相關藥材連結
 
 
+```dataviewjs
+const excludeTags = ["中藥科別","中藥生藥學"];
+const currentTags = dv.current().tags?.filter(t => !excludeTags.includes(t)) ?? [];
+
+let allCandidates = dv.pages()
+  .where(p => p.file?.path?.startsWith("國考/") && p.tags && p.file.name !== dv.current().file.name);
+
+
+// 先分出 multi 和 single
+let multiMatch = [];
+let singleMatch = [];
+
+for (let p of allCandidates) {
+  const matchCount = currentTags.reduce((acc, tag) => acc + (p.tags.includes(tag) ? 1 : 0), 0);
+  if (matchCount >= 2) {
+    multiMatch.push(p);
+  } else if (matchCount === 1) {
+    singleMatch.push(p);
+  }
+}
+
+// 建立 singleMatch 的分類 group
+let singleGroups = {};
+for (let p of singleMatch) {
+  let matchedTag = currentTags.find(tag => p.tags.includes(tag));
+  if (matchedTag) {
+    if (!singleGroups[matchedTag]) singleGroups[matchedTag] = [];
+    singleGroups[matchedTag].push(p);
+  }
+}
+
+// 合併總筆數（無重複）
+let multiPaths = new Set(multiMatch.map(p => p.file.path));
+let totalUnique = new Set([...multiMatch, ...singleMatch].map(p => p.file.path)).size;
+
+dv.header(5, `相關藥物（共 ${totalUnique} 筆）`);
+
+if (multiMatch.length > 0) {
+  dv.header(6, `▸ ${currentTags.join("、")}（${multiMatch.length}）`);
+  dv.list(
+    multiMatch.map(p => {
+      const tagsToShow = p.tags.filter(t => !excludeTags.includes(t));
+      return `${p.file.link}　${tagsToShow.join("、")}`;
+    })
+  );
+}
+
+// 顯示單一標籤命中分類後的筆記
+for (let [tag, pages] of Object.entries(singleGroups)) {
+  dv.header(6, `▸ ${tag}（${pages.length}）`);
+  dv.list(
+    pages.map(p => {
+      const tagsToShow = p.tags.filter(t => !excludeTags.includes(t) && t !== tag);
+      return `${p.file.link}　${tagsToShow.join("、")}`;
+    })
+  );
+}
+if (multiMatch.length === 0 && Object.keys(singleGroups).length === 0) {
+
+  dv.paragraph("沒有找到與本藥材具有相同標籤的其他筆記。");
+}
+
+```
+
+
 
 ### 3.木通科（Lardizabalaceae） 相關知識點
 
@@ -49,11 +117,11 @@ Lar-di-za-ba-la-ceae
 ### 4.閃卡區
 
 
-- 木通科:::（Lardizabalaceae） <!--SR:!2025-03-26,2,230!2025-03-27,3,250-->
+- 木通科:::（Lardizabalaceae） <!--SR:!2025-03-28,1,210!2025-04-04,8,250-->
 
 
 - **Lardizabal-**、木通科（Lardizabalaceae）
 ??
 - 來自植物學命名傳統，以18世紀西班牙外交官兼植物愛好者 **Miguel de Lardizábal y Uribe** 命名的模式屬 **Lardizabala** 為詞源  
   - **Lardizabala**：拉丁化專有名詞，用於命名該屬植物
-  - 該屬植物如 *Lardizabala biternata* 為南美原生的攀緣植物，有觀賞與食用價值 <!--SR:!2025-03-27,3,250!2025-03-26,2,230-->
+  - 該屬植物如 *Lardizabala biternata* 為南美原生的攀緣植物，有觀賞與食用價值 <!--SR:!2025-03-29,2,230!2025-04-02,6,250-->

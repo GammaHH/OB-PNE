@@ -2,17 +2,17 @@
 title: Reteplace
 category: Thrombolytics-agent
 tags:
-  - 藥理學
+  - 藥理藥化
   - Thrombolytics-agent
   - 抗凝血劑
 created: 2025-02-26
-updated: 2025-03-24 22:58
+updated: 2025-04-01 20:11
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
-sr-due: 2025-03-27
-sr-interval: 3
-sr-ease: 250
+sr-due: 2025-04-09
+sr-interval: 13
+sr-ease: 270
 ---
 #首刷 #review 
 ## 🔹 1. 基本資訊

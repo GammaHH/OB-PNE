@@ -2,11 +2,11 @@
 title: Aminocarprotic acid
 category: Antifibrinolytic-agent
 tags:
-  - 藥理學
+  - 藥理藥化
   - Antifibrinolytic-agent
   - 抗凝血劑
 created: 2025-02-26
-updated: 2025-03-23 22:20
+updated: 2025-04-01 20:11
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
@@ -17,6 +17,12 @@ Abstract: 藥物個論
 - **MOA（Mechanism of Action）**：
 > [!ERROR] 一句話MOA
 > - 與==Thrombolytics-agent==相反，阻斷 Plasminogen > Plasmin，造成血栓形成，可以治療出血性疾病 <!--SR:!2025-03-24,1,230-->
+
+
+### 結構
+![[Pasted image 20250331214000.png]]
+- Lysine 差一個胺基
+
 
 ## 🔹 2. 相關口訣
 > [!tip] 口訣

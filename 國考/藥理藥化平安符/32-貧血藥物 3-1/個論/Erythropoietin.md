@@ -2,15 +2,15 @@
 title: Erythropoietin
 category: 貧血治療劑
 tags:
-  - 藥理學
+  - 藥理藥化
   - 貧血治療劑
 created: 2025-03-01
-updated: 2025-03-24 22:24
+updated: 2025-04-01 20:11
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
-sr-due: 2025-03-28
-sr-interval: 4
+sr-due: 2025-04-10
+sr-interval: 13
 sr-ease: 270
 ---
 #首刷 #review 
@@ -18,12 +18,16 @@ sr-ease: 270
 - **藥名（Drug Name）**：Erythropoietin
 - **分類（Category）**：貧血治療劑
 - **MOA（Mechanism of Action）**：
+?
 > [!ERROR] 一句話MOA
 > - 刺激骨髓中的 erythroid progenitors 增加紅血球產生
 - 又稱 EPO
-## 🔹 2. 相關口訣
+
+## 🔹 2. 相關口訣(2)
+?
 > [!tip] 口訣
-> - 現無
+> - -thro = thrombin(凝血酶) 
+> - -Ery = 紅
 
 ## 🔹 3. 特色
 #### 🧪 藥理（Pharmacology）
