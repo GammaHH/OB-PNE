@@ -6,12 +6,12 @@ tags:
   - Benzohydrazide
   - 利尿劑
 created: 2025-03-31
-updated: 2025-04-07 10:00
+updated: 2025-04-09 13:04
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
-sr-due: 2025-04-10
-sr-interval: 3
+sr-due: 2025-04-18
+sr-interval: 9
 sr-ease: 250
 ---
 
@@ -29,8 +29,8 @@ sr-ease: 250
 
 ### 結構
 ![[Pasted image 20250331155906.png]]
-
-
+- 苯環少了一個 OH 基團
+![[Pasted image 20250331161714.png]]
 
 ## 🔹 2. Indapamide 相關字尾(2)
 ?
@@ -44,7 +44,10 @@ sr-ease: 250
 
 
 #### 🧬 藥化（Medicinal Chemistry）
+
 - 含有 Indoline 環，就是部分還原的吲哚環(Indole)
+###### 其他
+- 和Salicylanilide 相比少了 OH基
 
 
 
@@ -59,12 +62,14 @@ sr-ease: 250
 
 - [[Thiazide diuretics]]
 
-##### 同類藥物(3)
+##### 同類藥物(2)
 ?
 - [[Chlorthalidone]]
-- [[Quinethazone]]
-- [[Xipamide]] <!--SR:!2025-04-08,1,230-->
+- [[Quinethazone]] <!--SR:!2025-04-08,1,230-->
 
+##### 類似藥物(1) - 相關性比較高那種
+?
+- - [[Xipamide]]
 
 
 ```dataviewjs

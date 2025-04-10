@@ -6,36 +6,42 @@ tags:
   - Thiazide-like-Diuretics
   - Salicylanilide
 created: 2025-03-31
-updated: 2025-04-07 11:31
+updated: 2025-04-09 13:02
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
-sr-due: 2025-04-08
-sr-interval: 1
+sr-due: 2025-04-12
+sr-interval: 3
 sr-ease: 230
 ---
 
-#首刷 #review #GEN4
-
+#review #GEN5
 ## 🔹 1. 基本資訊
 - **藥名（Drug Name）**：Xipamide
-- **分類（Category）**：利尿劑、Thiazide-like DiureticsSalicylanilide
+- **分類（Category）**：利尿劑、Thiazide-like Diuretics、Salicylanilide
 - **MOA（Mechanism of Action）**：
 ?
 > [!ERROR] 一句話MOA
-> - 抑制腎小管遠曲曲小管中的 Na⁺/Cl⁻ 共輸體，減少鈉與氯的重吸收，產生利尿與降壓作用，同時具有血管擴張效果。
+> - 抑制腎小管遠曲曲小管中的 Na⁺/Cl⁻ 共輸體，減少鈉與氯的重吸收，產生利尿與降壓作用，同時具有血管擴張效果。 <!--SR:!2025-04-12,3,250-->
+
+???
 
 
 ### 結構
 ![[Pasted image 20250331161714.png]]
-
+- Salicylanilide
+![[Pasted image 20250409132054.png]]
+- 醯替苯胺 （Anilides）
+![[Pasted image 20250409132243.png]]
 
 
 ## 🔹 2. Xipamide 相關字尾(2)
 ?
 > [!tip] 口訣
-> - -pam- = sulfonamide（–SO₂NH₂）
-> - Xip- = 類似 salicyl 或商品名稱語感修飾
+> - -pam- = sulfonamide（–SO₂NH₂），在字尾為巴比妥鹽類藥物
+> - Xip- = 類似 salicyl 或商品名稱語感修飾 <!--SR:!2025-04-12,3,250-->
+
+???
 
 ## 🔹 3. 特色
 #### 🧪 藥理（Pharmacology）
@@ -62,11 +68,9 @@ sr-ease: 230
 ?
 - [[Quinethazone]]
 - [[Indapamide]]
-- [[Chlorthalidone]]
+- [[Chlorthalidone]] <!--SR:!2025-04-10,1,210-->
 
-
-
-
+???
 
 ```dataviewjs
 // ---------- 標籤推薦區塊（以列表呈現） ----------
@@ -146,11 +150,8 @@ if (multiMatch.length === 0 && Object.keys(singleGroups).length === 0) {
 
 ```
 
-
-
-
 ## 🔹 6. 閃卡區
 
-- Xipamide藥名拆字(2)::-pam- = sulfonamide（–SO₂NH₂），Xip- = 類似 salicyl 或商品名稱語感修飾
-- 所屬類別(2)::利尿劑、Thiazide-like Diuretics
+- Xipamide藥名拆字(2)::-pam- = sulfonamide（–SO₂NH₂），Xip- = 類似 salicyl 或商品名稱語感修飾 <!--SR:!2025-04-12,3,250-->
+- 所屬類別(2'/f>1)::利尿劑、Thiazide-like Diuretics > Salicylanilide
 - 最大特色::結構特徵為 Salicylanilide

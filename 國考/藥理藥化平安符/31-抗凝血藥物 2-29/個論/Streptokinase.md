@@ -1,12 +1,12 @@
 ---
 title: Streptokinase
-category: 未分類
+category: 溶血栓
 tags:
   - 藥理藥化
-  - 抗凝血劑
   - Thrombolytics-agent
+  - 溶血栓
 created: 2025-02-26
-updated: 2025-04-01 20:11
+updated: 2025-04-10 08:48
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論

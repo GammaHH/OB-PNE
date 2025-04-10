@@ -3,9 +3,9 @@ title: Argatroban
 category: 抗凝血
 tags:
   - 藥理藥化
-  - 直接thrombin抑制劑
+  - DTIs
 created: 2025-02-25
-updated: 2025-04-01 20:11
+updated: 2025-04-10 08:58
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論

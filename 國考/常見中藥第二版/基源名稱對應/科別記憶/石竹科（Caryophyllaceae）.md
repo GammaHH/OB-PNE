@@ -2,14 +2,15 @@
 category: 中藥生藥學
 tags:
   - 中藥科別
+  - 石竹科
 created: 2025-03-21
-updated: 2025-03-27 21:40
+updated: 2025-04-09 13:44
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
-sr-due: 2025-04-08
-sr-interval: 12
-sr-ease: 270
+sr-due: 2025-05-09
+sr-interval: 30
+sr-ease: 290
 ---
 #首刷 #review
 > 一種中藥材
@@ -34,26 +35,89 @@ sr-ease: 270
 #### 📌 相關藥材連結
 
 
+```dataviewjs
+const excludeTags = ["中藥科別","中藥生藥學"];
+const currentTags = dv.current().tags?.filter(t => !excludeTags.includes(t)) ?? [];
 
+let allCandidates = dv.pages()
+  .where(p => p.file?.path?.startsWith("國考/") && p.tags && p.file.name !== dv.current().file.name);
+
+
+// 先分出 multi 和 single
+let multiMatch = [];
+let singleMatch = [];
+
+for (let p of allCandidates) {
+  const matchCount = currentTags.reduce((acc, tag) => acc + (p.tags.includes(tag) ? 1 : 0), 0);
+  if (matchCount >= 2) {
+    multiMatch.push(p);
+  } else if (matchCount === 1) {
+    singleMatch.push(p);
+  }
+}
+
+// 建立 singleMatch 的分類 group
+let singleGroups = {};
+for (let p of singleMatch) {
+  let matchedTag = currentTags.find(tag => p.tags.includes(tag));
+  if (matchedTag) {
+    if (!singleGroups[matchedTag]) singleGroups[matchedTag] = [];
+    singleGroups[matchedTag].push(p);
+  }
+}
+
+// 合併總筆數（無重複）
+let multiPaths = new Set(multiMatch.map(p => p.file.path));
+let totalUnique = new Set([...multiMatch, ...singleMatch].map(p => p.file.path)).size;
+
+dv.header(5, `相關藥物（共 ${totalUnique} 筆）`);
+
+if (multiMatch.length > 0) {
+  dv.header(6, `▸ ${currentTags.join("、")}（${multiMatch.length}）`);
+  dv.list(
+    multiMatch.map(p => {
+      const tagsToShow = p.tags.filter(t => !excludeTags.includes(t));
+      return `${p.file.link}　${tagsToShow.join("、")}`;
+    })
+  );
+}
+
+// 顯示單一標籤命中分類後的筆記
+for (let [tag, pages] of Object.entries(singleGroups)) {
+  dv.header(6, `▸ ${tag}（${pages.length}）`);
+  dv.list(
+    pages.map(p => {
+      const tagsToShow = p.tags.filter(t => !excludeTags.includes(t) && t !== tag);
+      return `${p.file.link}　${tagsToShow.join("、")}`;
+    })
+  );
+}
+if (multiMatch.length === 0 && Object.keys(singleGroups).length === 0) {
+
+  dv.paragraph("沒有找到與本藥材具有相同標籤的其他筆記。");
+}
+
+```
 
 
 ### 3.石竹科（Caryophyllaceae） 相關知識點
 
-
+- **Caryophyll-**  
+  來自希臘文 *karyon*（κάρυον，意為「核、種子」）+ *phyllon*（φύλλον，意為「葉」）  
+  - **karyo-**：核（指植物的種子或果實形狀）  
+  - **-phyll**：葉，可能與某些屬種具**對生葉、葉形明顯**有關  
+  - 此詞也與丁香屬 *Caryophyllus*（現歸入 *Syzygium*）有語源重疊，但石竹科命名主要來自石竹屬植物的形態學特徵（花形、葉形）  
 
 
 ### 4.閃卡區
 
 
-- 石竹科::（Caryophyllaceae） <!--SR:!2025-04-02,6,250-->
-
-
-- **Caryophyll-**  、石竹科（Caryophyllaceae）
+- **Caryophyll-**  、石竹科（Caryophyllaceae）詞源
 ??
-  來自希臘文 *karyon*（κάρυον，意為「核、種子」）+ *phyllon*（φύλλον，意為「葉」） <!--SR:!2025-03-30,3,230!2025-04-02,6,255-->  
+  來自希臘文 *karyon*（κάρυον，意為「核、種子」）+ *phyllon*（φύλλον，意為「葉」） <!--SR:!2025-04-17,8,230!2025-04-23,14,255-->  
 
+???
 
+- 來自希臘文 *karyon*::（κάρυον，意為「核、種子」） <!--SR:!2025-04-23,14,250-->
 
-- 來自希臘文 *karyon*::（κάρυον，意為「核、種子」） <!--SR:!2025-04-02,6,250-->
-
-- *phyllon*::（φύλλον，意為「葉」） <!--SR:!2025-03-28,1,190-->
+- *phyllon*::（φύλλον，意為「葉」） folium <!--SR:!2025-04-11,2,190-->

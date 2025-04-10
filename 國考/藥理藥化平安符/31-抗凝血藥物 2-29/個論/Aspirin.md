@@ -7,7 +7,7 @@ tags:
   - COX抑制劑
   - NSAID
 created: 2025-02-25
-updated: 2025-04-01 20:11
+updated: 2025-04-08 09:27
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
@@ -22,7 +22,7 @@ sr-ease: 250
 ?
 > [!ERROR] 一句話MOA
 > - **不可逆**非選抑制COX(==Serine==上乙醯化) ，其他均為可逆
-- 水楊酸衍生物 考點為代謝方式 <!--SR:!2025-04-15,14,290-->
+- 水楊酸衍生物 考點為代謝方式 
 
 ### 結構
 ![[Pasted image 20250331131148.png]]
@@ -31,24 +31,24 @@ sr-ease: 250
 ## 🔹 2. 相關比較口訣
 ?
 > [!tip]- 口訣
-> - A : Acetyl ; s : salicylic acid <!--SR:!2025-04-03,2,230-->
+> - A : Acetyl ; s : salicylic acid 
 
 ## 🔹 3. 特色
 ### 🧪 藥理（Pharmacology）
 - 不可逆非選抑制COX(乙醯化) ，其他均為可逆
-- 低劑量時::不可逆乙醯化 COX-1，**使 TXA₂ 生成減少**，抗血凝集 <!--SR:!2025-04-09,8,250-->
+- 低劑量時::不可逆乙醯化 COX-1，**使 TXA₂ 生成減少**，抗血凝集 
 
 ### 🧬 藥化（Medicinal Chemistry）
 
 - 代謝很重要(3[2+1])
 ?
 	1. COOH接Gly(主要)、接 Glucuronide 次
-	2. OH接 Glucuronide <!--SR:!2025-04-14,13,270-->
+	2. OH接 Glucuronide 
 
 
 ### ⚡副作用（Adverse Effects）
 
-- 在幼兒容易引起::雷氏症候群(Reye's syn) <!--SR:!2025-04-15,14,290-->
+- 在幼兒容易引起::雷氏症候群(Reye's syn) 
 
 ## 🔹 4. ADME（藥代動力學）
 - **代謝方式**：
@@ -64,7 +64,7 @@ sr-ease: 250
 ?
 - [[Triflusal]]
 - [[Diflunisal]] 
-1-A、2-DI、3-Tri <!--SR:!2025-04-02,1,190--> 
+1-A、2-DI、3-Tri  
 
 
 ```dataviewjs
@@ -100,3 +100,4 @@ if (totalMatched > 0) {
 }
 
 ````
+<!--SR:!2025-04-15,14,290-->

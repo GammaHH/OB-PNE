@@ -1,8 +1,8 @@
 ---
 created: 2025-03-26 15:40
-updated: 2025-04-01 10:09
-sr-due: 2025-04-08
-sr-interval: 7
+updated: 2025-04-09 14:05
+sr-due: 2025-04-28
+sr-interval: 19
 sr-ease: 230
 ---
 #首刷 #review 
@@ -10,7 +10,7 @@ sr-ease: 230
 >理解
 
 - 常考對應雜環類，此類藥物多具有大基團，以達到**空間上選擇性抑制**COX2的效果
-- 該類藥物具有(藥名特色):: -coxib 字尾 <!--SR:!2025-04-03,2,230-->
+- 該類藥物具有(藥名特色):: -coxib 字尾 <!--SR:!2025-04-14,5,230-->
 
 > 口訣(6種藥，其中1另外記)
 ?
@@ -36,15 +36,15 @@ sr-ease: 230
 - 參見[[COX酵素]]
 
 **代謝**
-- Celecoxib 代謝::由CYP2C9 氧化苯上甲基 <!--SR:!2025-04-03,2,230-->
-- Lumiracoxib 氧化形成:: 4'-Hydroxylumiracoxib <!--SR:!2025-04-04,3,250-->
+- Celecoxib 代謝::由CYP2C9(酒精誘導) 氧化苯上甲基 <!--SR:!2025-04-17,8,250-->
+- Lumiracoxib 氧化形成:: 4'-Hydroxylumiracoxib <!--SR:!2025-04-11,2,230-->
 
 > 閃卡
 
-- Celecoxib 含有雜環::(Pyrazole) <!--SR:!2025-04-03,2,230-->
-- Etoricoxib 含有雜環::(2X Pyridine) <!--SR:!2025-04-04,3,250-->
-- Lumiracoxib 含有雜環::(Phenyl) <!--SR:!2025-04-04,3,250-->
-- Rofecoxib 含有雜環::(Furan, Lactone) <!--SR:!2025-04-04,3,250-->
-- Valdecoxib 含有雜環::(Isoxazole) <!--SR:!2025-04-04,3,250-->
-- Parecoxib 含有雜環::(Isoxazole) <!--SR:!2025-04-04,3,250-->
-- 最高COX-2選擇性?::Lumiracoxib <!--SR:!2025-04-04,3,250-->
+- Celecoxib 含有雜環::(Pyrazole) <!--SR:!2025-04-14,5,230-->
+- Etoricoxib 含有雜環::(2X Pyridine) <!--SR:!2025-04-19,10,250-->
+- Lumiracoxib 含有雜環::(Phenyl) <!--SR:!2025-04-19,10,250-->
+- Rofecoxib 含有雜環::(Furan, Lactone) <!--SR:!2025-04-19,10,250-->
+- Valdecoxib 含有雜環::(Isoxazole) <!--SR:!2025-04-19,10,250-->
+- Parecoxib 含有雜環::(Isoxazole) <!--SR:!2025-04-19,10,250-->
+- 最高COX-2選擇性?::Lumiracoxib <!--SR:!2025-04-19,10,250-->

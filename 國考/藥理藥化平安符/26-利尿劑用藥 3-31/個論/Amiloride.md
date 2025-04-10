@@ -3,14 +3,18 @@ category: 利尿劑
 tags:
   - 藥理藥化
   - 保鉀型利尿劑
+  - Pyrazine
 created: 2025-03-31
-updated: 2025-04-06 21:45
+updated: 2025-04-10 09:40
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
+sr-due: 2025-04-13
+sr-interval: 3
+sr-ease: 251
 ---
 
-#首刷 #review #GEN4
+#首刷 #review #GEN5
 
 
 ## 🔹 1. 基本資訊
@@ -19,7 +23,9 @@ Abstract: 藥物個論
 - **MOA（Mechanism of Action）**：
 ?
 > [!ERROR] 一句話MOA
-> - 抑制腎臟遠曲小管與集合管的 ENaC（上皮鈉通道），減少鈉再吸收、促進水分排出，同時保留鉀離子，達到輕度利尿與保鉀效果。
+> - 抑制腎臟遠曲小管與集合管的 ENaC（上皮鈉通道），減少鈉再吸收、促進水分排出，同時保留鉀離子，達到輕度利尿與保鉀效果。 <!--SR:!2025-04-14,4,272-->
+
+???
 
 
 ### 結構
@@ -28,15 +34,19 @@ Abstract: 藥物個論
 ![[Pasted image 20250331165531.png]]
 
 
-## 🔹 2. Amiloride 相關字尾(1)
+## 🔹 2. Amiloride 相關字尾(2[1>2/1])
 ?
 > [!tip] 口訣
 > - Ami- = amino / amidino，可聯想成胺基與  guanidino（胍基），高度鹼性
+> - -ide = 可以聯想到具有胺基的相關藥物，通常具有**鹼性特性**。​常經過**第一相代謝** <!--SR:!2025-04-14,4,272-->
+
+???
 
 ## 🔹 3. 特色
 #### 🧪 藥理（Pharmacology）
 - 用於 Liddle's syndrome (保鉀有整理)
 - 噴霧劑可治療 cystic fibrosis (參考)
+- **治療腎因性尿崩症**
 
 
 #### 🧬 藥化（Medicinal Chemistry）
@@ -60,10 +70,9 @@ Abstract: 藥物個論
 ?
 - [[Triamterene]]
 - [[Eplerenone]]
-- [[Spironolactone]] <!--SR:!2025-04-09,3,250-->
+- [[Spironolactone]] <!--SR:!2025-04-23,13,270-->
 
-
-
+???
 
 
 ```dataviewjs
@@ -106,8 +115,8 @@ if (totalMatched > 0) {
 
 ## 🔹 6. 閃卡區
 
-- Amiloride藥名拆字(1)::Ami- = amino / amidino，可聯想成胺基與  guanidino（胍基），高度鹼性 <!--SR:!2025-04-10,4,270-->
-- 所屬類別(1)::保鉀型利尿劑
-- 最大特色::有強鹼性 Guanidino 基
-- 骨架特色::Pyrazine 骨架
-- 可以治療(2)::Liddle's syndrome (保鉀有整理)、**噴霧劑**可治療 cystic fibrosis (參考)
+- Amiloride藥名拆字(2)::Ami- = amino / amidino，可聯想成胺基與  guanidino（胍基），高度鹼性、-ide = 可以聯想到具有胺基的相關藥物，通常具有**鹼性特性**。​常經過第一相代謝 <!--SR:!2025-04-26,16,290-->
+- 所屬類別(1)::保鉀型利尿劑 <!--SR:!2025-04-14,4,272-->
+- 最大特色::**有強鹼性 Guanidino 基**(重點) <!--SR:!2025-04-14,4,272-->
+- 骨架特色::Pyrazine 骨架 <!--SR:!2025-04-14,4,272-->
+- 可以治療/特色(4)::Liddle's syndrome (保鉀有整理)、**噴霧劑**可治療 cystic fibrosis (參考)、可用於鋰鹽導致的尿崩症、**腎因性尿崩症** <!--SR:!2025-04-14,4,272-->

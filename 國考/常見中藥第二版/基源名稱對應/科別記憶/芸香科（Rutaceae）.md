@@ -2,16 +2,18 @@
 category: 中藥生藥學
 tags:
   - 中藥科別
+  - 芸香科
 created: 2025-03-20
-updated: 2025-03-31 23:59
+updated: 2025-04-10 09:35
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
-sr-due: 2025-04-10
-sr-interval: 10
+sr-due: 2025-05-05
+sr-interval: 25
 sr-ease: 250
 ---
 #首刷 #review 
+> **五種中藥材**
 ### 1.概念
 - **芸香科（Rutaceae）** 是一類**富含芳香精油的木本或灌木植物**，包含許多具有**藥用、食用與香料價值**的種類，如 **枳實（Citrus aurantium）、黃柏（Phellodendron chinense）、花椒（Zanthoxylum bungeanum）**。  
 - **主要藥用特性：**  
@@ -34,11 +36,74 @@ sr-ease: 250
 
 #### 📌 相關藥材連結
 
+```dataviewjs
+const excludeTags = ["中藥科別","中藥生藥學"];
+const currentTags = dv.current().tags?.filter(t => !excludeTags.includes(t)) ?? [];
+
+let allCandidates = dv.pages()
+  .where(p => p.file?.path?.startsWith("國考/") && p.tags && p.file.name !== dv.current().file.name);
 
 
-### 3.芸香科（Rutaceae） 相關知識點
-- 易與:: [[茜草科（Rubiaceae）]] 搞混，需分清楚
+// 先分出 multi 和 single
+let multiMatch = [];
+let singleMatch = [];
+
+for (let p of allCandidates) {
+  const matchCount = currentTags.reduce((acc, tag) => acc + (p.tags.includes(tag) ? 1 : 0), 0);
+  if (matchCount >= 2) {
+    multiMatch.push(p);
+  } else if (matchCount === 1) {
+    singleMatch.push(p);
+  }
+}
+
+// 建立 singleMatch 的分類 group
+let singleGroups = {};
+for (let p of singleMatch) {
+  let matchedTag = currentTags.find(tag => p.tags.includes(tag));
+  if (matchedTag) {
+    if (!singleGroups[matchedTag]) singleGroups[matchedTag] = [];
+    singleGroups[matchedTag].push(p);
+  }
+}
+
+// 合併總筆數（無重複）
+let multiPaths = new Set(multiMatch.map(p => p.file.path));
+let totalUnique = new Set([...multiMatch, ...singleMatch].map(p => p.file.path)).size;
+
+dv.header(5, `相關藥物（共 ${totalUnique} 筆）`);
+
+if (multiMatch.length > 0) {
+  dv.header(6, `▸ ${currentTags.join("、")}（${multiMatch.length}）`);
+  dv.list(
+    multiMatch.map(p => {
+      const tagsToShow = p.tags.filter(t => !excludeTags.includes(t));
+      return `${p.file.link}　${tagsToShow.join("、")}`;
+    })
+  );
+}
+
+// 顯示單一標籤命中分類後的筆記
+for (let [tag, pages] of Object.entries(singleGroups)) {
+  dv.header(6, `▸ ${tag}（${pages.length}）`);
+  dv.list(
+    pages.map(p => {
+      const tagsToShow = p.tags.filter(t => !excludeTags.includes(t) && t !== tag);
+      return `${p.file.link}　${tagsToShow.join("、")}`;
+    })
+  );
+}
+if (multiMatch.length === 0 && Object.keys(singleGroups).length === 0) {
+
+  dv.paragraph("沒有找到與本藥材具有相同標籤的其他筆記。");
+}
+
+```
+
+### 3.芸香科（Rutaceae） 相關知識點 + 閃卡區
+- 芸香科，易與:: [[茜草科（Rubiaceae）]] 搞混，需分清楚
 - 嚕他阿謝
 
-
+  - **Rue**（英語「芸香」）：直接來自拉丁文 *ruta*，用於指芸香植物。  
+  - **命名原因：** 以 **芸香屬（Ruta）** 為代表命名，該屬植物具有芸香科典型的**芳香精油與藥用特性**。  
 

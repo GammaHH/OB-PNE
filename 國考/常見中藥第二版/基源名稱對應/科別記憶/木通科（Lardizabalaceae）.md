@@ -4,7 +4,7 @@ tags:
   - 中藥科別
   - 木通科
 created: 2025-03-21
-updated: 2025-04-07 12:47
+updated: 2025-04-07 19:45
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
@@ -124,4 +124,4 @@ if (multiMatch.length === 0 && Object.keys(singleGroups).length === 0) {
 ??
 - 來自植物學命名傳統，以18世紀西班牙外交官兼植物愛好者 **Miguel de Lardizábal y Uribe** 命名的模式屬 **Lardizabala** 為詞源  
   - **Lardizabala**：拉丁化專有名詞，用於命名該屬植物
-  - 該屬植物如 *Lardizabala biternata* 為南美原生的攀緣植物，有觀賞與食用價值 <!--SR:!2025-03-29,2,230!2025-04-02,6,250-->
+  - 該屬植物如 *Lardizabala biternata* 為南美原生的攀緣植物，有觀賞與食用價值 <!--SR:!2025-03-29,2,230!2025-04-28,21,270-->
