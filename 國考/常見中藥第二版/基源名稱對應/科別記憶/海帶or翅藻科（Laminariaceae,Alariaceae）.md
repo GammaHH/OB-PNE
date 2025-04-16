@@ -3,7 +3,7 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-21
-updated: 2025-03-27 21:43
+updated: 2025-04-11 06:58
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
@@ -61,15 +61,15 @@ sr-ease: 290
 
 Alariaceae（翅藻科）
 ??
-- **Alari-**：來自拉丁文 *ala*，意為「翅膀」  
-  - **Alaria**：如 *Alaria esculenta* 
-  - 命名意涵：中肋明顯、兩側展開如翅，有**「葉中有翅」**之形 <!--SR:!2025-03-31,4,290!2025-03-31,4,290-->
+- **Alari-**：來自拉丁文 *ala*，意為「翅膀」
+  - **Alaria**：如 *Alaria esculenta*
+  - 命名意涵：中肋明顯、兩側展開如翅，有**「葉中有翅」**之形 
 
 
 Laminariaceae（海帶科）
 ??
-- **Laminari-**：來自拉丁文 *lamina*，意為「薄片、層狀結構」  
-  - **Lamina**：現代英語中指葉片或膜狀結構  
+- **Laminari-**：來自拉丁文 *lamina*，意為「薄片、層狀結構」
+  - **Lamina**：現代英語中指葉片或膜狀結構
   - **Laminaria**：代表性屬名，如 *Laminaria japonica*
   - 命名意涵：形容其**葉狀帶形**的藻體構造
   - 口訣為拉麵 <!--SR:!2025-03-31,4,290!2025-03-31,4,290-->

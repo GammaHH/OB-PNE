@@ -5,7 +5,7 @@ tags:
   - NSAID
   - Oxicam
 created: 2025-03-26
-updated: 2025-04-01 20:12
+updated: 2025-04-11 09:25
 source:
   - 藥理藥化平安符
 Abstract: 藥物個論
@@ -23,6 +23,8 @@ sr-ease: 250
 > [!ERROR] 一句話MOA
 > - 非選擇性抑制COX-1與COX-2，抑制前列腺素合成，達到**長效的抗發炎、鎮痛與解熱作用**。 <!--SR:!2025-04-15,14,290-->
 
+???
+
 
 ### 結構
 ![[Pasted image 20250331131426.png]]
@@ -34,6 +36,8 @@ sr-ease: 250
 > [!tip] 口訣
 > - -Pir = Pyridine
 > - -oxicam = oxicam 類藥物>>均有 Benzothiazine，通常半衰期很長、效價強 <!--SR:!2025-04-14,13,270-->
+
+???
 
 
 ## 🔹 3. 特色
@@ -47,6 +51,8 @@ sr-ease: 250
 烯醇烯胺，烯(Enol)、carbox(Carbonyl group)、carboxamide(羧酸胺)
 - [[Meloxicam]]
 ![[Pasted image 20250401122834.png]] <!--SR:!2025-04-04,3,251-->
+
+???
 
 - 均有 Benzothiazine，通常半衰期很長、效價強
 
@@ -72,10 +78,15 @@ sr-ease: 250
 ##### 類似藥物(1)
 ?
 - [[Meloxicam]] - 多了一個 Thiazole 
+
+???
+
 ```dataviewjs
 // ---------- 標籤推薦區塊（以列表呈現） ----------
 const excludeTags = ["藥理學","NSAID"];
 const currentTags = dv.current().tags?.filter(t => !excludeTags.includes(t)) ?? []; <!--SR:!2025-04-04,3,250-->
+
+
 
 let tagMatches = dv.pages()
   .where(p => p.tags && p.file.name !== dv.current().file.name)
@@ -112,6 +123,8 @@ if (totalMatched > 0) {
 ?
 - Benzothiazine 
 ![[imgsrv.png]] <!--SR:!2025-04-05,4,271-->
+
+???
 
 - Piroxicam 藥名拆字(2) :: Pir 表 pyridine 結構；-oxicam 表 oxicam 類（含benzothiazine 骨架） <!--SR:!2025-04-05,4,271-->
 - Piroxicam 所屬類別(3) :: NSAID、Oxicam 類、Enolcarboxamide 結構藥物 <!--SR:!2025-04-05,4,271-->

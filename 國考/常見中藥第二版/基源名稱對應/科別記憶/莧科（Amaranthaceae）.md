@@ -4,7 +4,7 @@ tags:
   - 中藥科別
   - 莧科
 created: 2025-03-21
-updated: 2025-04-08 09:27
+updated: 2025-04-11 06:58
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
@@ -120,4 +120,4 @@ if (multiMatch.length === 0 && Object.keys(singleGroups).length === 0) {
 
 - *maraino*::枯萎、凋零 
 
-- 莧科::（Amaranthaceae） <!--SR:!2025-03-30,4,270!2025-03-30,4,270-->
+- 莧科::（Amaranthaceae） <!--SR:!2025-03-30,4,270-->
