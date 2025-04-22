@@ -4,13 +4,16 @@ tags:
   - 中藥科別
   - 豆科
 created: 2025-03-06
-updated: 2025-04-07 11:19
+updated: 2025-04-19 15:20
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 sr-due: 2025-04-20
 sr-interval: 14
 sr-ease: 250
+aliases:
+  - Fabaceae
+  - Leguminosae
 ---
 #首刷 #review 
 > **12種中藥材**

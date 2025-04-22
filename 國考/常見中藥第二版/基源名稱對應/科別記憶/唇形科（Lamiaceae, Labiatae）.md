@@ -4,13 +4,17 @@ tags:
   - 中藥科別
   - 唇形科
 created: 2025-03-20
-updated: 2025-04-08 09:27
+updated: 2025-04-19 17:53
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 sr-due: 2025-04-25
 sr-interval: 19
 sr-ease: 270
+aliases:
+  - Lamiaceae
+  - Labiatae
+  - 脣形科
 ---
 
 #首刷 #review 

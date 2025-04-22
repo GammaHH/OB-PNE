@@ -4,13 +4,16 @@ tags:
   - 中藥詞卡
   - 中藥科別
 created: 2025-03-20
-updated: 2025-04-06 18:52
+updated: 2025-04-18 21:20
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 sr-due: 2025-04-23
 sr-interval: 17
 sr-ease: 250
+aliases:
+  - Poaceae
+  - 禾本科（Poaceae）
 ---
 #首刷 #review 
 >  5種中藥材

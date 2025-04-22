@@ -3,13 +3,17 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-20
-updated: 2025-04-08 09:27
+updated: 2025-04-19 17:44
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 sr-due: 2025-04-11
 sr-interval: 11
 sr-ease: 250
+aliases:
+  - Compositae
+  - Asteraceae
+  - 菊科
 ---
 #首刷 #review 
 >**11種藥材**

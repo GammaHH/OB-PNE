@@ -3,13 +3,16 @@ category: 中藥生藥學
 tags:
   - 中藥科別
 created: 2025-03-11
-updated: 2025-03-31 13:09
+updated: 2025-04-19 18:15
 source:
   - 常用中藥第二版
 Abstract: 中藥詞卡
 sr-due: 2025-04-12
 sr-interval: 12
 sr-ease: 250
+aliases:
+  - Umbliferae
+  - Apiaceae
 ---
 #首刷 #review 
 ### 1.概念
